@@ -19,7 +19,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22.x
 
       - run: cd quartz && npm install
       - run: cd quartz && npx build
