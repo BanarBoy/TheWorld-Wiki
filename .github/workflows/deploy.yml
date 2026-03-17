@@ -22,7 +22,7 @@ jobs:
           node-version: 22.x
 
       - run: cd quartz && npm install
-      - run: cd quartz && npx build
+      - run: cd quartz && npx quartz build
 
       - uses: actions/upload-pages-artifact@v3
         with:
