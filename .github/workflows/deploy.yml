@@ -1,51 +1,50 @@
-# FORCE CHANGE TEST
-
 name: Deploy Quartz site
 
 on:
-push:
-branches:
-- main
+  push:
+    branches:
+      - main
 
 permissions:
-contents: read
-pages: write
-id-token: write
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout repo
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-  - name: Setup Node
-    uses: actions/setup-node@v4
-    with:
-      node-version: 22
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
 
-  - name: Install dependencies
-    run: |
-      cd quartz
-      npm install
+      - name: Install dependencies
+        run: |
+          cd quartz
+          npm install
 
-  - name: Build Quartz
-    run: |
-      cd quartz
-      npx quartz build
+      - name: Build Quartz
+        run: |
+          cd quartz
+          npx quartz build
 
-  - name: Upload artifact
-    uses: actions/upload-pages-artifact@v3
-    with:
-      path: quartz/public
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: quartz/public
 
-deploy:
-needs: build
-runs-on: ubuntu-latest
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
 
-environment:
-  name: github-pages
-steps:
-  - name: Deploy to GitHub Pages
-    uses: actions/deploy-pages@v4
+    environment:
+      name: github-pages
+
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
