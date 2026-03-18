@@ -39,7 +39,6 @@ steps:
     uses: actions/upload-pages-artifact@v3
     with:
       path: quartz/public
-```
 
 deploy:
 needs: build
