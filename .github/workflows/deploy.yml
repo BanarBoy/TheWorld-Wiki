@@ -21,12 +21,19 @@ jobs:
         with:
           node-version: 22
 
-      - run: npm install
-      - run: npx quartz build
+- name: Install dependencies
+  run: |
+    cd quartz
+    npm install
+
+- name: Build Quartz
+  run: |
+    cd quartz
+    npx quartz build
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz/public
 
   deploy:
     needs: build
