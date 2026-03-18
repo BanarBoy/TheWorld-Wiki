@@ -13,7 +13,7 @@
 ## Major Regions
 
 - [[Gold Marches]]    
-- [[04 Geography/Mountains/Blackspine Mountains]]    
+- [[Geography/Mountains/Blackspine Mountains]]    
 - [[Veiled Greenwood]]    
 - [[Glasswaste Expanse]]    
 - [[Verdant Mantle]]    

@@ -14,7 +14,7 @@ Major Cities
 Key Regions
 
 - [[Gold Marches]]    
-- [[04 Geography/Mountains/Blackspine Mountains]]    
+- [[Geography/Mountains/Blackspine Mountains]]    
 
 ---
 

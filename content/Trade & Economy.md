@@ -15,7 +15,7 @@
 
 - Grain ([[Gold Marches]])
     
-- Iron ([[04 Geography/Mountains/Blackspine Mountains]])
+- Iron ([[Geography/Mountains/Blackspine Mountains]])
     
 
 ### Eryndor
