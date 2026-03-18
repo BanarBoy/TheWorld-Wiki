@@ -1,8 +1,3 @@
----
-title: King Halvair Drosen
-slug: king-halvair-drosen
----
-
 # King Drosen
 
 **Title(s):** King of Valecaryn, Restorer of the Crown, Lord of Aureth Caldras  
