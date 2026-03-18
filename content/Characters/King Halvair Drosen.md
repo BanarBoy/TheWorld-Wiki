@@ -1,5 +1,8 @@
 # King Drosen
 
+title: King Halvair Drosen
+slug: king-halvair-drosen
+
 **Title(s):** King of Valecaryn, Restorer of the Crown, Lord of Aureth Caldras  
 **Role:** King / Military Leader  
 **Nationality:** [[Valecaryn]] (naturalized)  
