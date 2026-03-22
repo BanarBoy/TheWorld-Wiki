@@ -4,9 +4,9 @@
 **Location(s):** [[Valecaryn]], centered on [[Aureth Caldras]] and major river regions  
 **Time Period:** 1020–1510  
 **Duration:** ~490 years  
-**Key Factions:** [[House Vaelor]], [[House Merrowfen]], [[House Draeven]] vs [[House Corvane]], [[House Thane]], [[House Fairwind]]  
-**Key Figures:** Seralyne Vaelor, [[King Drosen]]  
-**Outcome:** The crisis ended with the rise of King Drosen, who seized the throne and legitimized his rule through marriage to Seralyne Vaelor, restoring continuity with the old royal line.
+**Key Factions:** [[House Mailleux]], [[House Allacroix]], [[House Draeven]] vs [[House Corvane]], [[House Thale]], [[House Fairwind]]  
+**Key Figures:** [[Seralyne Mailleux]], [[King Drosen]]  
+**Outcome:** The crisis ended with the rise of King Drosen, who seized the throne and legitimized his rule through marriage to [[Seralyne Mailleux]], restoring continuity with the old royal line.
 
 ---
 
@@ -14,7 +14,7 @@
 
 The Crown Crisis was a nearly five-century period of political fragmentation and intermittent civil war following the death of Seredain the Last Crown King in 1020, who died without a clear heir. What began as a succession dispute between noble houses evolved into a prolonged struggle that reshaped the political, economic, and social structure of Valecaryn.
 
-Two primary factions emerged. On one side stood the loyalists—led by [[House Vaelor]] and supported by [[House Merrowfen]] and [[House Draeven]]—who sought to preserve the legitimacy of the crown and maintain continuity with the established royal line. Opposing them were a coalition of rival houses, including [[House Corvane]], [[House Thane]], and [[House Fairwind]], who rejected Vaelor claims and sought to seize power for themselves.
+Two primary factions emerged. On one side stood the loyalists—led by [[House Mailleux]] and supported by [[House Allacroix]] and [[House Draeven]]—who sought to preserve the legitimacy of the crown and maintain continuity with the established royal line. Opposing them were a coalition of rival houses, including [[House Corvane]], [[House Thale]], and [[House Fairwind]], who rejected Mailleux claims and sought to seize power for themselves.
 
 Over centuries, the conflict ceased to be about a single crown and became instead a cycle of entrenched rivalry. By the time [[King Drosen]] rose to power in 1510, both sides had exhausted themselves, creating the conditions for an outsider to seize control and redefine the monarchy.
 
@@ -39,14 +39,14 @@ Over time, the original question of succession became secondary to the continuat
 **1020** — Death of Seredain the Last Crown King; succession dispute begins
 
 **Early Period (1020–1100s)**  
-• Initial conflicts between Vaelor loyalists and rival claimants  
+• Initial conflicts between Mailleux loyalists and rival claimants  
 • Breakdown of centralized royal authority  
 • Regional fortifications expanded
 
 **Middle Period (1100s–1300s)**  
 • Conflict becomes cyclical and entrenched  
 • Noble alliances shift but core factions remain  
-• Trade networks disrupted, increasing reliance on merchant houses like [[House Merrowfen]]
+• Trade networks disrupted, increasing reliance on merchant houses like [[House Allacroix]]
 
 **Late Period (1300s–1500s)**  
 • Economic strain and war fatigue weaken all factions  
@@ -61,10 +61,10 @@ Over time, the original question of succession became secondary to the continuat
 
 ### Loyalist Coalition
 
-**[[House Vaelor]]**  
+**[[House Mailleux]]**  
 Claimants to the legitimate royal line; symbolic center of the conflict
 
-**[[House Merrowfen]]**  
+**[[House Allacroix]]**  
 Supported stability due to reliance on trade and luxury markets; provided economic backing
 
 **[[House Draeven]]**  
@@ -75,9 +75,9 @@ Military order sworn to uphold the crown; provided disciplined military support
 ### Rival Coalition
 
 **[[House Corvane]]**  
-Ambitious noble house seeking to overturn Vaelor legitimacy
+Ambitious noble house seeking to overturn Mailleux legitimacy
 
-**[[House Thane]]**  
+**[[House Thale]]**  
 Militarized faction emphasizing strength over lineage
 
 **[[House Fairwind]]**  
@@ -87,7 +87,7 @@ Maritime-aligned house leveraging naval power and trade disruption
 
 # Key Figures
 
-**Seralyne Vaelor — Last Significant Heir of the Vaelor Line**  
+**Seralyne Mailleux — Last Significant Heir of the Mailleux Line**  
 Her marriage would later be used to legitimize Drosen’s rule
 
 **[[King Drosen]] — Conqueror and Unifier**  
@@ -110,7 +110,7 @@ These factors created a power vacuum that allowed Drosen’s rise.
 
 The Crown Crisis ended not through victory by either faction, but through external consolidation of power.
 
-[[King Drosen]] seized [[Aureth Caldras]] and established himself as ruler. Crucially, he married Seralyne Vaelor, tying his rule to the legacy of the original royal line.
+[[King Drosen]] seized [[Aureth Caldras]] and established himself as ruler. Crucially, he married Seralyne Mailleux, tying his rule to the legacy of the original royal line.
 
 This act allowed him to:
 
@@ -132,8 +132,8 @@ The monarchy was restored—but under new leadership.
 
 **Long-Term:**
 
-• Severe weakening of rival houses (Corvane, Thane, Fairwind)  
-• Preservation—but subordination—of Vaelor legacy  
+• Severe weakening of rival houses (Corvane, Thale, Fairwind)  
+• Preservation—but subordination—of Mailleux legacy  
 • Increased importance of economic and institutional stability  
 • Conditions that later enabled the rise of systems like the [[Meridian Compact]]
 
@@ -154,11 +154,11 @@ The memory of the crisis reinforces a widespread fear of returning to prolonged 
 
 # Related Entities
 
-• [[House Vaelor]]  
-• [[House Merrowfen]]  
+• [[House Mailleux]]  
+• [[House Allacroix]]  
 • [[House Draeven]]  
 • [[House Corvane]]  
-• [[House Thane]]  
+• [[House Thale]]  
 • [[House Fairwind]]  
 • [[King Drosen]]  
 • [[Aureth Caldras]]  
@@ -169,7 +169,7 @@ The memory of the crisis reinforces a widespread fear of returning to prolonged 
 # Rumors and Contested Narratives
 
 • Some claim Drosen orchestrated the final collapse of both factions before seizing power  
-• Others believe Seralyne Vaelor’s marriage was coerced or politically manipulated  
+• Others believe Seralyne Mailleux’s marriage was coerced or politically manipulated  
 • Certain records from the late crisis period are incomplete or missing  
 • A minority view holds that the crisis never truly ended—only changed form
 
@@ -177,7 +177,7 @@ The memory of the crisis reinforces a widespread fear of returning to prolonged 
 
 # Plot Hooks
 
-• Discovery of a lost Vaelor heir with a stronger claim to the throne  
+• Discovery of a lost Mailleux heir with a stronger claim to the throne  
 • Resurgence of a disgraced house seeking to reclaim lost status  
 • Hidden records from the Crown Crisis that could destabilize current power structures  
 • Evidence that Drosen’s rise was not as opportunistic as believed—but planned

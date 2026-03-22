@@ -1,7 +1,7 @@
 # Blackspine Basalt
 
 **Resource Type:** Geological Resource / Construction Stone  
-**Primary Region(s):** [[Regions/Blackspine Mountains]]  
+**Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Extraction Sites:** Mountain quarries near [[Khordun-Zhal]] and surrounding settlements  
 **Controlling Groups:** Dwarven mining guilds, regional quarry operators, merchant stone caravans  
 **Primary Uses:** Fortifications, city walls, foundations, roads, monumental architecture  
@@ -11,7 +11,7 @@
 
 # Overview
 
-Blackspine Basalt is a dense volcanic stone quarried from the rugged slopes of the [[Regions/Blackspine Mountains]]. Known for its dark coloration and exceptional durability, the stone has become one of the most important construction materials used throughout Valecaryn.
+Blackspine Basalt is a dense volcanic stone quarried from the rugged slopes of the [[Blackspine Mountain Foothills]]. Known for its dark coloration and exceptional durability, the stone has become one of the most important construction materials used throughout Valecaryn.
 
 Because of its strength and resistance to weathering, Blackspine Basalt is widely used in the construction of fortifications, city walls, bridges, and monumental buildings. The stone’s deep grey to near-black color gives many structures built from it a distinctive and imposing appearance.
 
@@ -21,7 +21,7 @@ Large blocks of basalt are transported from mountain quarries by caravan routes 
 
 # Geographic Origin
 
-Blackspine Basalt forms naturally within the volcanic rock layers of the [[Regions/Blackspine Mountains]]. Over time, tectonic forces and erosion exposed large deposits of this dense stone along mountain slopes and valleys.
+Blackspine Basalt forms naturally within the volcanic rock layers of the [[Blackspine Mountain Foothills]]. Over time, tectonic forces and erosion exposed large deposits of this dense stone along mountain slopes and valleys.
 
 These deposits are particularly common in areas where ancient lava flows cooled and hardened deep within the mountain range.
 
@@ -90,7 +90,7 @@ The dark stone has also become associated with the rugged character of the Black
 
 # Notable Locations
 
-**[[Regions/Blackspine Mountains]]**  
+**[[Blackspine Mountain Foothills]]**  
 The mountain range where basalt deposits are found and quarried.
 
 **[[Khordun-Zhal]]**  

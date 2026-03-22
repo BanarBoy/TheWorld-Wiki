@@ -11,4 +11,5 @@
 1020: Death of Seredain the Last Crown King
 1020-1510: Crown Crisis
 1510: Drosen crowns himself King
+1522-1530: The Corsair Wars
 1540: Present Day

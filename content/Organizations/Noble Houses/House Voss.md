@@ -2,7 +2,7 @@
 
 **Realm / Nation:** [[Valecaryn]]  
 **House Type:** Maritime Dynasty / Noble House  
-**Seat of Power:** [[Lethryn Prime]] — Harborhold Keep  
+**Seat of Power:** [[Lethryn Prime]] — [[Harborhold Keep]]  
 **Founding Era:** Late Age of Expansion (~300 years before present)  
 **Sigil / Symbol:** A black anchor over crossed silver ledger lines  
 **Motto:** _“Nothing moves without us.”_
@@ -15,7 +15,7 @@ House Voss is the dominant maritime noble house of **Valecaryn**, responsible fo
 
 The house rose to prominence as Valecaryn expanded its overseas trade networks. By organizing harbor systems, certifying captains, and standardizing maritime records, the Voss family gradually became the administrative backbone of the kingdom’s seafaring economy.
 
-From their seat at **Harborhold Keep** in Lethryn Prime, the Voss oversee dock registries, cargo manifests, captain licensing, and maritime arbitration courts. Their authority ensures that goods entering or leaving Valecaryn do so through regulated and reliable systems.
+From their seat at **[[Harborhold Keep]]** in [[Lethryn Prime]], the Voss oversee dock registries, cargo manifests, captain licensing, and maritime arbitration courts. Their authority ensures that goods entering or leaving Valecaryn do so through regulated and reliable systems.
 
 Today House Voss remains essential to the functioning of the realm’s trade economy. Merchants, ship captains, and even rival noble houses depend on Voss infrastructure to move goods across the Sapphire Reach and beyond.
 
@@ -73,11 +73,11 @@ Because of these systems, House Voss often knows **what cargo moves across the s
 
 # Key Holdings
 
-**Harborhold Keep — Lethryn Prime**
+**[[Harborhold Keep]] — Lethryn Prime**
 
 A fortified harbor citadel overlooking the largest port in Valecaryn. Harborhold contains the administrative chambers of the Voss family and the kingdom’s primary maritime records.
 
-**Captain’s Guild Hall**
+**[[Captain’s Guild Hall]]**
 
 An institution responsible for training and certifying ship captains operating under Valecaryni authority.
 
@@ -189,11 +189,11 @@ Their power is strongest when trade is flourishing.
 
 # Known Members
 
-**Brannagh Voss — Veteran Sea Captain**
+**[[Brannagh Voss]] — Veteran Sea Captain**
 
 A hardened sailor in his mid-thirties, Brannik represents the traditional seafaring identity of the Voss family. He has spent most of his life aboard merchant and escort vessels and is widely respected among captains operating in the Sapphire Reach.
 
-**Rorik Voss — Naval Logistics Administrator**
+**[[Rorik Voss]] — Naval Logistics Administrator**
 
 Brannik’s younger brother and a prodigious logistical strategist. Rorik rarely sails but possesses an extraordinary ability to coordinate fleets, cargo schedules, and port throughput. Many believe his organizational reforms will reshape Valecaryn’s maritime trade systems.
 

@@ -3,7 +3,7 @@
 **Title(s):** Captain Brannagh Voss  
 **Role:** Maritime Captain / Escort Commander  
 **Nationality:** [[Valecaryn]]  
-**Culture / People:** Coastal Valecaryni  
+**Culture / People:** [[Marchers]] 
 **Born:** ~1505–1510 (approx.)  
 **Died:** —  
 **Age:** Mid 30s–early 40s  

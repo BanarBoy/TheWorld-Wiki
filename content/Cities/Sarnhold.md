@@ -34,7 +34,7 @@ The surrounding land stretches outward in rolling fields and open grazing countr
 
 The city developed naturally at the intersection of several major caravan routes connecting the agricultural hinterlands to the larger markets of Valecaryn.
 
-To the north lie the foothills leading toward the [[Regions/Blackspine Mountains]], while the open plains continue southward toward the major population centers of the continent.
+To the north lie the foothills leading toward the [[Blackspine Mountain Foothills]], while the open plains continue southward toward the major population centers of the continent.
 
 ---
 
@@ -250,7 +250,7 @@ Sarnhold is the central transportation hub of the [[Gold Marches]].
 Major caravan roads radiate outward from the city toward:
 
 • [[Aureth Caldras]] and the central plains  
-• the foothills of the [[Regions/Blackspine Mountains]]  
+• the foothills of the [[Blackspine Mountain Foothills]]  
 • merchant routes leading toward the coast
 
 These roads carry constant traffic of grain wagons, cattle drives, and merchant caravans.

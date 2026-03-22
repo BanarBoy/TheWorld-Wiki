@@ -148,7 +148,7 @@ Important sites connected to the resource.
 Examples:
 
 • [[Oakrest]] timber yards  
-• [[Merrowfen]] vineyards  
+• [[Allacroix]] vineyards  
 • mining complexes or ranchlands
 
 ---

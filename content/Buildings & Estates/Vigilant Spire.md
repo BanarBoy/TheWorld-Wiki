@@ -2,7 +2,7 @@
 
 **Type:** Fortress / Administrative Citadel  
 **Location:** [[High Tor]] / [[Northern Coast Basin]]  
-**Owner:** [[Meridian Compact]] (under authority of [[House Vaul]])  
+**Owner:** [[Meridian Compact]]
 **Founded:** Late Crown Crisis (formalized during the final century of instability)  
 **Primary Function:** Administrative oversight, intelligence coordination, legal authority  
 **Status:** Active
@@ -13,7 +13,7 @@
 
 The Vigilant Spire is the central seat of authority in [[High Tor]] and the operational heart of the [[Meridian Compact]]. Rising above the city on sheer coastal stone, it serves as both fortress and institution—a place where law is recorded, enforced, and quietly shaped.
 
-Though nominally an arm of the Crown, the Spire is effectively governed by [[House Vaul]], with Archon-Regent Malrec Vaul presiding over its operations. From within its walls, audits are ordered, records maintained, and networks of intelligence extended across [[Valecaryn]]. Its influence is rarely visible, but almost always felt.
+Though nominally an arm of the Crown, the Spire is effectively governed by the [[Meridian Compact]], with Archon-Regent Malrec Vaul presiding over its operations. From within its walls, audits are ordered, records maintained, and networks of intelligence extended across [[Valecaryn]]. Its influence is rarely visible, but almost always felt.
 
 To those who deal in trade, governance, or power, the Vigilant Spire represents a single idea:
 

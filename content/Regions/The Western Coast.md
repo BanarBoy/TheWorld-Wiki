@@ -254,7 +254,7 @@ These goods support trade with other coastal regions.
 Imports include:
 
 • grain from the Gold Marches  
-• wine from Merrowfen and Ambervale  
+• wine from [[Allacroix Vineyards]] and [[Ambervale Downs]]
 • manufactured goods from inland cities
 
 Trade connections tie the region closely to the rest of Valecaryn.

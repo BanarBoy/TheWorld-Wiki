@@ -3,7 +3,7 @@
 **Title(s):** King of Valecaryn, Restorer of the Crown, Lord of Aureth Caldras  
 **Role:** King / Military Leader  
 **Nationality:** [[Valecaryn]] (naturalized)  
-**Culture / People:** Sapphire Reach seafaring culture  
+**Culture / People:** [[Merrowfolk]]  
 **Born:** c. 1485  
 **Died:** —  
 **Age:** Mid-50s (approx. 55 in 1540)  
@@ -21,7 +21,7 @@ King Drosen is the ruler who ended the [[Crown Crisis]] and restored the monarch
 
 During the last decades of the Crown Crisis, rival jarldoms and strongmen fought bitter civil wars that devastated much of the realm. Drosen exploited this chaos through a series of decisive naval campaigns that allowed him to control trade routes and coastal strongholds. As the competing factions exhausted themselves, his forces advanced inland and eventually seized the capital city of Aureth Caldras in 1510.
 
-Despite his military victory, Drosen understood that conquest alone would not secure his rule. To legitimize his claim to the throne, he married **Queen Seralyne Vaelor**, heir to the ancient royal bloodline that had ruled Valecaryn before the Crown Crisis. This alliance allowed him to present himself not merely as a conqueror, but as the restorer of lawful kingship.
+Despite his military victory, Drosen understood that conquest alone would not secure his rule. To legitimize his claim to the throne, he married **[[Queen Seralyne Mailleux]]**, heir to the ancient royal bloodline that had ruled Valecaryn before the Crown Crisis. This alliance allowed him to present himself not merely as a conqueror, but as the restorer of lawful kingship.
 
 Among common citizens he is often viewed as a stabilizing force who ended centuries of chaos. Among traditional nobility he remains a controversial figure: a foreign-born pirate who took the crown by force.
 
@@ -61,7 +61,7 @@ Drosen combines the instincts of a pirate captain with the pragmatism of a seaso
 
 He is charismatic and confident, accustomed to commanding loyalty from rough sailors and hardened soldiers alike. Those who serve under him often describe him as decisive and surprisingly approachable for a king.
 
-At the same time he is deeply pragmatic and politically calculating. Drosen understands that power depends not only on strength but also on perception. His marriage into House Vaelor demonstrates his willingness to adapt when necessary.
+At the same time he is deeply pragmatic and politically calculating. Drosen understands that power depends not only on strength but also on perception. His marriage into [[House Mailleux]] demonstrates his willingness to adapt when necessary.
 
 He enjoys the finer aspects of royal life—fine food, elaborate banquets, and luxurious court culture—but he retains the blunt speech and practical instincts of a man who spent most of his life at sea.
 
@@ -88,15 +88,15 @@ Key abilities include:
 
 # Relationships
 
-**Queen Seralyne Vaelor — Wife**
+**[[Queen Seralyne Mailleux]] — Wife**
 
 Member of the ancient royal house whose bloodline legitimized Drosen’s rule. Their marriage symbolized the restoration of lawful monarchy.
 
 **Prince Karrom — Son and Heir**
 
-The crown prince and future ruler of Valecaryn. His lineage combines Drosen’s conquering power with Vaelor’s royal legitimacy.
+The crown prince and future ruler of Valecaryn. His lineage combines Drosen’s conquering power with Mailleux’s royal legitimacy.
 
-**House Vaelor**
+**[[House Mailleux]]**
 
 An essential political partner whose support reinforces the legitimacy of the monarchy.
 
@@ -124,7 +124,7 @@ As king, Drosen holds ultimate authority over the Crown of Valecaryn.
 
 However, his power rests on a delicate balance between several major forces:
 
-• the ancient legitimacy of House Vaelor  
+• the ancient legitimacy of House Mailleux  
 • the administrative structures of powerful noble houses  
 • the merchant wealth flowing through major cities such as Lethryn Prime  
 • the loyalty of military commanders who helped secure his rule

@@ -11,21 +11,21 @@
 
 # Overview
 
-Amberfall Reserve is a prestigious white wine produced in limited quantities by the vineyards of the [[Ambervale Downs]]. Crafted only from the finest harvests, the wine represents the most refined expression of Thornweave winemaking traditions.
+Amberfall Reserve is a prestigious red wine produced in limited quantities by the vineyards of the [[Ambervale Downs]]. Crafted only from the finest harvests, the wine represents the most refined expression of Thornweave winemaking traditions.
 
-While the widely traded **Amberfall White** supplies merchant markets across Valecaryn, Amberfall Reserve is created from select vineyard plots and aged under carefully controlled conditions. The result is a wine with greater complexity, depth, and aging potential than the standard Amberfall vintage.
+While the widely traded **[[Amberfall Red]]** supplies merchant markets across Valecaryn, Amberfall Reserve is drawn from select vineyard plots and aged for extended periods to develop exceptional depth and structure. The result is a wine known for its richness, complexity, and remarkable aging potential.
 
-Because of its limited production and exceptional quality, Amberfall Reserve is highly sought after among noble households and collectors. Bottles are frequently served at diplomatic feasts and high-profile gatherings where prestigious wines are expected.
+Because of its limited production and distinguished character, Amberfall Reserve is highly sought after among noble households and collectors. It is frequently served at diplomatic feasts, state gatherings, and ceremonial occasions where only the most prestigious vintages are considered appropriate.
 
 ---
 
 # Geographic Origin
 
-Amberfall Reserve originates from the most carefully cultivated vineyards of the [[Ambervale Downs]], where warm sunlight and cooling coastal winds create ideal conditions for growing delicate white wine grapes.
+Amberfall Reserve originates from the most carefully cultivated vineyards of the [[Ambervale Downs]], where long sunlit days and temperate coastal winds create ideal conditions for producing robust red grapes.
 
-The region’s gentle hills and mineral-rich soils contribute to the wine’s distinctive character. Certain vineyard slopes are particularly prized for producing grapes with exceptional aroma and balance.
+The region’s rolling hills and mineral-rich soils contribute to the wine’s depth and structure. South- and west-facing slopes, which receive the longest exposure to afternoon light, are especially prized for producing grapes with concentrated flavor and balance.
 
-These select plots provide the grapes used in Amberfall Reserve vintages.
+These select plots form the foundation of Amberfall Reserve vintages.
 
 ---
 
@@ -33,37 +33,37 @@ These select plots provide the grapes used in Amberfall Reserve vintages.
 
 The production of Amberfall Reserve follows strict selection standards.
 
-During harvest season, vineyard masters choose only the highest-quality grapes from designated reserve plots. The grapes are harvested by hand and transported immediately to estate wineries.
+During harvest, vineyard masters select only the most mature and balanced grapes from designated reserve plots. The fruit is harvested by hand at peak ripeness and transported immediately to estate wineries.
 
-Fermentation is carefully monitored to preserve the wine’s delicate character. The wine is then aged in oak or stone cellars for an extended period, allowing subtle flavors to develop before bottling.
+Fermentation is conducted with careful control to extract color, tannin, and structure without overwhelming the wine’s natural balance. The wine is then aged in oak casks or deep stone cellars for extended periods, allowing it to develop layered flavors and a refined finish.
 
-Only the most successful vintages are released as Amberfall Reserve.
+Only the most exceptional vintages are released under the Amberfall Reserve name.
 
 ---
 
 # Processing and Storage
 
-Amberfall Reserve is aged longer than most white wines produced in the region.
+Amberfall Reserve undergoes significantly longer aging than standard regional wines.
 
-Estate cellars throughout the Ambervale Downs maintain stable temperatures that allow the wine to mature slowly. After bottling, some vintages continue aging in private cellars owned by noble collectors.
+Estate cellars throughout the Ambervale Downs maintain carefully controlled environments that allow the wine to mature slowly, softening tannins and deepening its character over time. Many vintages continue to improve for decades when stored properly.
 
-Because of its value, shipments of Amberfall Reserve are transported with considerable care.
+Because of its value and aging potential, Amberfall Reserve is frequently held in private collections and transported under strict conditions to preserve its integrity.
 
 ---
 
 # Economic Importance
 
-Amberfall Reserve represents one of the most valuable luxury exports produced by [[House Thornweave]].
+Amberfall Reserve is one of the most valuable luxury exports produced by [[House Thornweave]].
 
-Although the wine is produced in limited quantities, it commands extremely high prices in elite markets. Its prestige strengthens the economic and social influence of the Thornweave estates.
+Though produced in limited quantities, it commands extremely high prices among elite buyers. Its prestige enhances the influence of Thornweave estates within both economic and social spheres.
 
-The reserve wine trade also supports vineyard estates, cellar masters, barrel makers, and merchant houses involved in transporting the wine across the continent.
+The reserve wine trade supports a network of vineyard workers, cellar masters, coopers, and merchant houses responsible for distributing these rare vintages across Valecaryn and beyond.
 
 ---
 
 # Trade Networks
 
-Most bottles of Amberfall Reserve are sold within the noble markets of Valecaryn.
+Most bottles of Amberfall Reserve circulate within the noble markets of Valecaryn.
 
 Major destinations include:
 
@@ -72,17 +72,17 @@ Major destinations include:
 • wealthy collectors in [[Lethryn Prime]]  
 • luxury markets in [[Westport]]
 
-A small number of bottles are exported abroad through merchant fleets operating along the Coinward Coast.
+A limited number of bottles are exported abroad through merchant fleets operating along the Coinward Coast.
 
 ---
 
 # Cultural Significance
 
-Amberfall Reserve is often associated with refinement and prestige within Valecaryn’s aristocratic society.
+Amberfall Reserve is closely associated with power, refinement, and legacy within Valecaryn’s aristocratic culture.
 
-Serving the wine at a banquet signals wealth and sophisticated taste, while gifting a bottle can carry considerable diplomatic significance.
+To serve the wine at a gathering signals not only wealth, but discernment. It is often reserved for moments of significance—treaties, alliances, and celebrations of status. Gifting a bottle is considered a gesture of considerable respect, and in some circles, a calculated political move.
 
-Many noble families maintain private cellars stocked with rare Amberfall vintages.
+Many noble families maintain private cellars of Amberfall vintages, with older bottles carrying both financial and symbolic value.
 
 ---
 
@@ -101,28 +101,8 @@ The nearby coastal port through which much of the region’s wine enters contine
 
 # Rumors and Conflicts
 
-Some merchants suspect that certain Thornweave estates secretly produce even rarer vintages that are never released to the public.
+Some merchants suspect that certain Thornweave estates quietly produce even rarer vintages that are never released to the public.
 
-Others claim that rival wine merchants have attempted to counterfeit Ambervale wines in foreign markets.
+Others claim that rival wine merchants have attempted to counterfeit Ambervale wines in foreign markets, though replicating the depth of Amberfall Reserve has proven difficult.
 
-There are also rumors that newly discovered vineyard slopes within the Ambervale Downs may soon produce wines rivaling the legendary vintages of Merrowfen.
-
----
-
-# Plot Hooks
-
-**The Disappearing Vintage**
-
-A shipment of Amberfall Reserve destined for a royal banquet vanishes during transport.
-
-**The Counterfeit Bottles**
-
-Collectors discover that several supposedly rare Amberfall vintages may be forgeries.
-
-**The Secret Vineyard**
-
-An experimental vineyard produces a wine rumored to rival even the best Suncrest vintages.
-
-**The Auction Rivalry**
-
-Two noble houses compete fiercely at an auction for a rare Amberfall Reserve bottle.
+There are also rumors that newly discovered vineyard slopes within the Ambervale Downs may soon produce wines capable of rivaling even the most legendary vintages of Allacroix.

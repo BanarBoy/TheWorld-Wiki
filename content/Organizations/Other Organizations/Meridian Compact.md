@@ -5,7 +5,7 @@
 **Sphere of Influence:** National (Valecaryn), with limited international reach  
 **Founded:** Early Post-Crown Crisis (~1510–1520)  
 **Leader(s):** [[Archon-Regent Malrec Vaul]]  
-**Affiliated Groups:** [[House Vaul]], civil administration of [[Valecaryn]]  
+**Affiliated Groups:** Civil administration of [[Valecaryn]]  
 **Known For:** Legal oversight, administrative auditing, covert intelligence gathering
 
 ---
@@ -24,7 +24,7 @@ Privately, the Meridian Compact functions as an intelligence network. Through it
 
 The Meridian Compact was established in the aftermath of the Crown Crisis, during the early years of [[King Drosen]]’s rule. After centuries of fractured authority, overlapping claims, and broken systems, Valecaryn required a means of reestablishing consistent governance without reigniting conflict between powerful factions.
 
-[[House Vaul]], under the leadership of Archon-Regent [[Malrec Vaul]], proposed a solution: a unified framework through which legal authority, administrative oversight, and dispute resolution could be standardized across the realm.
+Archon-Regent [[Malrec Vaul]], proposed a solution: a unified framework through which legal authority, administrative oversight, and dispute resolution could be standardized across the realm.
 
 Rather than restoring centralized royal control directly, the Compact created a system that allowed power to function within agreed structures. This made it acceptable to a wide range of factions—each of whom could operate within the system while also being constrained by it.
 
@@ -74,7 +74,6 @@ Key assets include:
 • access to legal authority recognized across the realm  
 • extensive records of contracts, rulings, and administrative actions  
 • a network of auditors and envoys embedded throughout Valecaryn  
-• institutional backing from [[House Vaul]]
 
 Its greatest asset is legitimacy—its rulings are accepted because the system requires them to be.
 
@@ -113,9 +112,6 @@ Its influence extends beyond its physical presence through the recognition of it
 ---
 
 # Relationships and Alliances
-
-**[[House Vaul]]**  
-Primary controlling force. The Compact is effectively Vaul’s instrument of influence.
 
 **The Crown of [[King Drosen]]**  
 A pragmatic relationship. The Compact supports stable governance while operating semi-independently.
@@ -161,14 +157,11 @@ A sign of Valecaryn’s institutional strength, though difficult to navigate.
 
 The Meridian Compact is built on the belief that **order must be visible to exist**.
 
-Its ideology mirrors that of [[House Vaul]]:
+Its ideology:
 
-- legitimacy is constructed through process
-    
-- authority must be recorded and recognized
-    
-- systems outlast individuals
-    
+- legitimacy is constructed through process    
+- authority must be recorded and recognized    
+- systems outlast individuals    
 
 It values procedure, documentation, and continuity above all else.
 

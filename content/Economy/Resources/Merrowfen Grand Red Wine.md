@@ -1,9 +1,9 @@
 # Merrowfen Grand Red
 
 **Resource Type:** Luxury Agricultural Product / Prestige Wine  
-**Primary Region(s):** [[Merrowfen Vineyards]]  
+**Primary Region(s):** [[Allacroix Vineyards]]  
 **Major Production Centers:** [[Merrowfen]]  
-**Controlling Groups:** [[House Merrowfen]], vineyard estates, vintners’ guilds  
+**Controlling Groups:** [[House Allacroix]], vineyard estates, vintners’ guilds  
 **Primary Uses:** Noble consumption, diplomatic feasts, luxury trade  
 **Trade Value:** High / Prestige
 
@@ -11,7 +11,7 @@
 
 # Overview
 
-Merrowfen Grand Red is the signature wine of the renowned [[Merrowfen Vineyards]] and one of the most widely respected red wines produced in Valecaryn. Known for its rich body, deep ruby color, and balanced structure, it has become a staple of noble banquets and prestigious gatherings across the continent.
+Merrowfen Grand Red is the signature wine of the renowned [[Allacroix Vineyards]] and one of the most widely respected red wines produced in Valecaryn. Known for its rich body, deep ruby color, and balanced structure, it has become a staple of noble banquets and prestigious gatherings across the continent.
 
 Unlike the rare and limited [[Sunfall Reserve Wine]], Merrowfen Grand Red is produced in larger quantities each harvest. While still considered a luxury product, it is widely traded among noble houses, wealthy merchants, and influential guilds.
 
@@ -23,7 +23,7 @@ For many nobles, serving Merrowfen Grand Red at a feast represents a mark of sop
 
 # Geographic Origin
 
-Merrowfen Grand Red is produced in the rolling vineyards surrounding [[Merrowfen]] within the region known as the [[Merrowfen Vineyards]].
+Merrowfen Grand Red is produced in the rolling vineyards surrounding [[Merrowfen]] within the region known as the [[Allacroix Vineyards]].
 
 The area’s geography is particularly suited to growing high-quality red wine grapes due to:
 
@@ -99,7 +99,7 @@ Many noble houses maintain extensive wine cellars containing Merrowfen vintages,
 
 # Notable Locations
 
-**[[Merrowfen Vineyards]]**  
+**[[Allacroix Vineyards]]**  
 The expansive vineyard region where Merrowfen Grand Red is cultivated.
 
 **[[Merrowfen]]**  

@@ -496,3 +496,6 @@ Current political or social tensions.
 # Plot Hooks
 
 Adventure or story opportunities.
+
+
+---

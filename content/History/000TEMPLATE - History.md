@@ -133,8 +133,8 @@ Examples:
 
 Link everything this touches:
 
-• [[House Vaelor]]  
-• [[House Merrowfen]]  
+• [[House Mailleux]]  
+• [[House Allacroix]]  
 • [[House Draeven]]  
 • [[House Corvane]]  
 • [[Meridian Compact]]  

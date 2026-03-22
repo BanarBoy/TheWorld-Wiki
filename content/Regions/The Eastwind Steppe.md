@@ -251,7 +251,7 @@ These goods supply both domestic markets and trade caravans.
 Imports include:
 
 • grain from the Gold Marches  
-• wine from Merrowfen and Ambervale  
+• wine from [[Allacroix Vineyards]] and [[Ambervale Downs]]
 • manufactured tools and equipment
 
 The region relies on outside trade for many necessities.

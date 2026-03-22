@@ -3,7 +3,7 @@
 **Resource Type:** Agricultural Product / Luxury Coffee  
 **Primary Region(s):** Kelresh Highlands, Thalassar  
 **Major Production Centers:** [[Ridgefall Estate]]  
-**Controlling Groups:** [[House Merrowfen]]  
+**Controlling Groups:** [[House Allacroix]]  
 **Primary Uses:** Coffee houses, noble households, merchant exchanges, scholarly circles  
 **Trade Value:** Luxury Import
 
@@ -11,9 +11,9 @@
 
 # Overview
 
-Ridgefall Roast is a renowned coffee imported to Valecaryn from the overseas estates of [[House Merrowfen]] in the highlands of Kelresh. Cultivated on the terraced slopes surrounding [[Ridgefall Estate]], the beans are known for their rich aroma, dark body, and distinctive bitterness balanced by subtle sweetness.
+Ridgefall Roast is a renowned coffee imported to Valecaryn from the overseas estates of [[House Allacroix]] in the highlands of Kelresh. Cultivated on the terraced slopes surrounding [[Ridgefall Estate]], the beans are known for their rich aroma, dark body, and distinctive bitterness balanced by subtle sweetness.
 
-Because coffee cannot be grown in the temperate climate of Valecaryn, Ridgefall Roast arrives entirely through maritime trade. The beans are shipped across the seas by merchant fleets aligned with House Merrowfen and distributed through major trade hubs such as [[Merrowfen]], [[Geldmere]], and [[Lethryn Prime]].
+Because coffee cannot be grown in the temperate climate of Valecaryn, Ridgefall Roast arrives entirely through maritime trade. The beans are shipped across the seas by merchant fleets aligned with House Allacroix and distributed through major trade hubs such as [[Merrowfen]], [[Geldmere]], and [[Lethryn Prime]].
 
 Over the past generation, Ridgefall Roast has become increasingly fashionable among merchants, scholars, and political elites. Coffee houses serving the drink have appeared in many major cities, where merchants negotiate contracts, scholars debate philosophy, and political agents quietly exchange information.
 
@@ -42,7 +42,7 @@ Coffee plants are cultivated across terraced plantations on the slopes surroundi
 
 During harvest seasons, workers gather ripe coffee cherries by hand. The fruit is then processed to extract the beans, which are washed, dried, and sorted before roasting.
 
-The distinctive **Ridgefall Roast** style is produced through a carefully controlled roasting process that darkens the beans while preserving their aromatic oils. This method creates the strong flavor profile that has become associated with Merrowfen coffee.
+The distinctive **Ridgefall Roast** style is produced through a carefully controlled roasting process that darkens the beans while preserving their aromatic oils. This method creates the strong flavor profile that has become associated with Allacroix coffee.
 
 Once roasted, the beans are sealed in trade chests to preserve freshness during transport.
 
@@ -69,7 +69,7 @@ The trade supports:
 • warehouse and trade houses in port cities  
 • coffee houses and specialty merchants in urban centers
 
-For [[House Merrowfen]], the coffee trade provides a valuable international revenue stream alongside their famous wine estates.
+For [[House Allacroix]], the coffee trade provides a valuable international revenue stream alongside their famous wine estates.
 
 ---
 

@@ -1,9 +1,9 @@
 # Virelois Red
 
 **Resource Type:** Agricultural Product / Commercial Wine  
-**Primary Region(s):** [[Merrowfen Vineyards]], [[Virelois Delta]]  
+**Primary Region(s):** [[Allacroix Vineyards]], [[Virelois Delta]]  
 **Major Production Centers:** [[Merrowfen]] and surrounding vineyard estates  
-**Controlling Groups:** [[House Merrowfen]], vineyard estates, vintners’ guilds, wine merchant houses  
+**Controlling Groups:** [[House Allacroix]], vineyard estates, vintners’ guilds, wine merchant houses  
 **Primary Uses:** Tavern consumption, merchant trade, ship provisions, export markets  
 **Trade Value:** Common / Profitable Export
 
@@ -11,9 +11,9 @@
 
 # Overview
 
-Virelois Red is the most widely produced red wine of the [[Merrowfen Vineyards]] and serves as the commercial foundation of the region’s wine trade. Named for the fertile lands surrounding the [[Virelois River]], it is produced in large quantities across vineyard estates throughout the delta.
+Virelois Red is the most widely produced red wine of the [[Allacroix Vineyards]] and serves as the commercial foundation of the region’s wine trade. Named for the fertile lands surrounding the [[Virelois River]], it is produced in large quantities across vineyard estates throughout the delta.
 
-While prestigious wines such as [[Merrowfen Grand Red Wine]] and the rare [[Sunfall Reserve Wine]] dominate noble cellars, Virelois Red is the wine most commonly encountered in markets, taverns, and merchant ships across Valecaryn.
+While prestigious wines such as [[Merrowfen Grand Red Wine]] and the rare [[Suncrest White Wine]] dominate noble cellars, Virelois Red is the wine most commonly encountered in markets, taverns, and merchant ships across Valecaryn.
 
 Known for its deep color, bold flavor, and reliable quality, Virelois Red has become a staple of everyday wine consumption throughout the continent.
 
@@ -21,7 +21,7 @@ Known for its deep color, bold flavor, and reliable quality, Virelois Red has be
 
 # Geographic Origin
 
-Virelois Red originates from vineyards spread across the fertile lands of the [[Virelois Delta]] and the surrounding hills of the [[Merrowfen Vineyards]].
+Virelois Red originates from vineyards spread across the fertile lands of the [[Virelois Delta]] and the surrounding hills of the [[Allacroix Vineyards]].
 
 The region’s winemaking success is shaped by several natural advantages:
 
@@ -96,7 +96,7 @@ Many travelers and sailors consider a cup of Virelois Red a familiar taste of ho
 
 # Notable Locations
 
-**[[Merrowfen Vineyards]]**  
+**[[Allacroix Vineyards]]**  
 The vineyard region where grapes used for Virelois Red are cultivated.
 
 **[[Merrowfen]]**  
@@ -111,7 +111,7 @@ The fertile riverlands that support large vineyard estates.
 
 Some merchants claim that certain estates secretly blend grapes intended for Virelois Red into higher-end vintages in order to increase production.
 
-Others believe that rival wine merchants sometimes attempt to counterfeit Merrowfen wines in distant markets.
+Others believe that rival wine merchants sometimes attempt to counterfeit Allacroix wines in distant markets.
 
 There are also whispers that expanding vineyards may soon begin competing directly with the prestigious estates producing Merrowfen Grand Red.
 
@@ -123,7 +123,7 @@ There are also whispers that expanding vineyards may soon begin competing direct
 A cargo of Virelois Red arrives at a port mysteriously ruined, threatening a merchant contract.
 
 **The Stolen Barrels**  
-Bandits intercept a caravan carrying several wagons of Merrowfen wine.
+Bandits intercept a caravan carrying several wagons of Allacroix wine.
 
 **The Rival Estate**  
 A new vineyard claims its Virelois Red rivals the region’s more prestigious wines.

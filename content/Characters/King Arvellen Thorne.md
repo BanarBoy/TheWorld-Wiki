@@ -1,9 +1,9 @@
 # King Arvellen Thorne
 
-**Title(s):** King of Seluqar, King of Que'lehr, Sovereign of the Western Thalassar Coast, Lord of the Crystal Palace  
+**Title(s):** King of Seluqar, King of [[Que'lehr]], Sovereign of the Western Thalassar Coast, Lord of the Crystal Palace  
 **Role:** Monarch / Maritime Sovereign  
 **Nationality:** [[Seluqar]]  
-**Culture / People:** Thalassari Maritime Dynasty  
+**Culture / People:** [[Valdar]] 
 **Born:** ~1495  
 **Age:** ~45  
 **Gender:** Male  
@@ -30,7 +30,7 @@ Yet one shadow hangs over his reign: the king has no spouse and no heir, creatin
 
 # Early Life
 
-Arvellen was born into the ancient royal dynasty of **House Thorne**, one of the oldest maritime ruling houses in the known world.
+Arvellen was born into the ancient royal dynasty of **[[House Thorne]]**, one of the oldest maritime ruling houses in the known world.
 
 From a young age he was exposed to both court life and the realities of maritime power. Royal heirs of Seluqar traditionally spend time at sea, and Arvellen accompanied naval officers and merchant captains on voyages during his adolescence.
 
@@ -95,7 +95,7 @@ He inspires loyalty among sailors, nobles, and merchants alike.
 
 # Relationships
 
-**House Thorne**  
+**[[House Thorne]]**  
 The ancient royal dynasty whose legitimacy anchors Seluqar’s monarchy.
 
 **Seluqar Royal Navy**  

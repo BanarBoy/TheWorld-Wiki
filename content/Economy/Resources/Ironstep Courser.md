@@ -92,9 +92,9 @@ Control of the Ironstep Courser trade is tightly held.
 
 This layered control ensures that no single external power can easily gain access to large numbers of Ironstep mounts without negotiation.
 
-During the Crown Crisis, the [[Ironstep Breeders’ Guild]] operated under constant pressure from competing factions. While officially neutral, in practice the guild favored long-standing agreements with crown-aligned forces, particularly those of House Draeven and their allies among [[House Vaelor]] and [[House Merrowfen]].
+During the Crown Crisis, the [[Ironstep Breeders’ Guild]] operated under constant pressure from competing factions. While officially neutral, in practice the guild favored long-standing agreements with crown-aligned forces, particularly those of House Draeven and their allies among [[House Mailleux]] and [[House Allacroix]].
 
-Several attempts were made by Houses Corvane and Thane to seize or replicate Ironstep breeding operations, though none succeeded in producing stock of comparable quality.
+Several attempts were made by Houses Corvane and Thale to seize or replicate Ironstep breeding operations, though none succeeded in producing stock of comparable quality.
 
 ---
 

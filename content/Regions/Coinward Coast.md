@@ -256,7 +256,7 @@ Exports shipped from the Coinward Coast include:
 • **Ironwood beams** prized for fortress and naval construction  
 • **beef and salted meats** from Valecaryn’s ranchlands  
 • **grain** from the Gold Marches  
-• **wine** from Ambervale Downs and Merrowfen vineyards  
+• **wine** from Ambervale Downs and Allacroix vineyards  
 • **wool and animal hides**
 
 Timber shipments are particularly valuable, as Valecaryn’s hardwood forests produce some of the strongest shipbuilding lumber in the world.

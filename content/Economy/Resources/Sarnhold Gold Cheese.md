@@ -15,7 +15,7 @@ Sarnhold Gold is a renowned aged cheese produced in the ranching regions surroun
 
 Because of its durability and long shelf life, Sarnhold Gold has become one of the most widely traded dairy products in Valecaryn. Large wheels of the cheese are transported along caravan routes and merchant shipping lanes, supplying cities, ports, and noble households across the continent.
 
-Among chefs and merchants alike, Sarnhold Gold is valued not only as a staple food but also as a refined accompaniment to wine and other luxury goods. It is frequently served alongside prestigious wines from [[Merrowfen Vineyards]] or [[Ambervale Downs]].
+Among chefs and merchants alike, Sarnhold Gold is valued not only as a staple food but also as a refined accompaniment to wine and other luxury goods. It is frequently served alongside prestigious wines from [[Allacroix Vineyards]] or [[Ambervale Downs]].
 
 ---
 

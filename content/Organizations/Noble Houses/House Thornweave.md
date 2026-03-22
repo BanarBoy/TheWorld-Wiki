@@ -69,21 +69,27 @@ Their ability to produce large agricultural surpluses gives them enormous econom
 
 # Key Holdings
 
-**Harvesthall — Gold Marches**
+**[[Harvesthall]] — [[Gold Marches]]**
 
-The ancestral seat of House Thornweave and administrative center of their vast estate network.
+The ancestral seat of House Thornweave and the administrative heart of their agricultural domain, overseeing estate operations, crop distribution, and rural governance across the region.
 
-**Sunfall Terraces**
+---
 
-Southern vineyard slopes overlooking the Marches that produce the prestigious **Sunfall Reserve** red wines.
+**Gold Marches Farmlands**
+
+An immense network of grain fields, irrigation channels, and tenant settlements forming the foundation of Thornweave’s power. These lands produce the bulk of Valecaryn’s staple crops, with carefully managed rotation, water control, and labor systems ensuring consistent, high-volume yields year after year.
+
+---
 
 **Ambervale Downs Estates**
 
-Rolling vineyard lands producing Thornweave’s widely exported white wines, known for their crisp mineral character and strong commercial demand.
+Expansive rolling vineyards dedicated to Thornweave’s white wine production, known for their crisp mineral character and consistent export demand across Valecaryn and beyond.
+
+---
 
 **Sarnhold Granaries — [[Sarnhold]]**
 
-Massive grain storage facilities used to regulate food supply across Valecaryn.
+Vast, strategically placed grain storage complexes designed to regulate food supply, stabilize markets, and ensure rapid distribution during shortages or disruption.
 
 ---
 
@@ -102,8 +108,8 @@ Major sectors include:
 Exports include:
 
 • grain shipments to urban centers  
-• **Suncrest White wines for noble markets  
-• **Amberfall whites** for commercial export
+• **[[Suncrest White]] and [[Amberfall Reserve]] wines for noble markets  
+• **[[Amberfall Red]]** for commercial export
 
 Their wines and grain often move through merchant networks tied to [[Geldmere]] and the ports of [[Lethryn Prime]].
 
@@ -180,15 +186,15 @@ A major agricultural disaster could weaken their influence.
 
 # Known Members
 
-**Marquessa Elidra Thornweave — Head of House Thornweave**
+**[[Marquessa Elidra Thornweave]] — Head of House Thornweave**
 
 Charismatic and socially influential ruler of the house, known for hosting elaborate seasonal feasts and maintaining strong relationships among noble families.
 
-**Lord Marius Thornweave — Master of Irrigation**
+**[[Lord Mannius Thornweave]] — Master of Irrigation**
 
 Oversees the vast canal networks that sustain Thornweave agricultural estates.
 
-**Lucan Thornweave — Heir Apparent**
+**[[Lucan Thornweave]] — Heir Apparent**
 
 A younger member of the house working as a sommelier interested in expanding Thornweave wine exports across international markets.
 

@@ -487,7 +487,7 @@ Common foods include:
 
 Wealthier merchants enjoy imported delicacies such as coastal seafood, luxury wines from [[House Thornweave]] vineyards, and exotic spices carried by maritime traders.
 
-Coffee imported through [[House Merrowfen]] trade networks has recently become fashionable among merchant elites.
+Coffee imported through [[House Allacroix]] trade networks has recently become fashionable among merchant elites.
 
 ---
 

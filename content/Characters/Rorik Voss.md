@@ -3,7 +3,7 @@
 **Title(s):** Master of Contracts, Ledger Warden  
 **Role:** Merchant Administrator / Contract Authority  
 **Nationality:** [[Valecaryn]]  
-**Culture / People:** Coastal Valecaryni  
+**Culture / People:** [[Marchers]]
 **Born:** ~1505–1510 (approx.)  
 **Died:** —  
 **Age:** Mid 30s–early 40s  

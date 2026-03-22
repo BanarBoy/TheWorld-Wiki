@@ -2,7 +2,7 @@
 
 **Type:** Trade Hub / Fortress / Industrial City  
 **Continent:** [[Valecaryn]]  
-**Region:** Northern Valecaryn foothills near the [[Regions/Blackspine Mountains]]  
+**Region:** Northern Valecaryn foothills near the [[Blackspine Mountain Foothills]]  
 **River / Coast:** River crossing along a major inland trade route  
 **Population:** ~70,000  
 **Elevation:** Moderate foothill elevation  
@@ -28,7 +28,7 @@ Travelers often describe Stonebridge as a city of dust, stone, and discipline �
 
 ## Regional Context
 
-Stonebridge lies at the base of the [[Regions/Blackspine Mountains]], where the rugged highlands gradually give way to the plains of central Valecaryn. The city occupies a strategic point along one of the main trade routes connecting the mountainous interior to the fertile lowlands and major population centers.
+Stonebridge lies at the base of the [[Blackspine Mountain Foothills]], where the rugged highlands gradually give way to the plains of central Valecaryn. The city occupies a strategic point along one of the main trade routes connecting the mountainous interior to the fertile lowlands and major population centers.
 
 To the north rise the steep ridges of the Blackspine range, where basalt quarries and dwarven settlements operate deep within the mountains. To the south stretch the agricultural lands that supply food to the region’s workers and trade caravans.
 
@@ -167,7 +167,7 @@ Large teams of draft animals are essential for transporting heavy stone blocks f
 
 Stonebridge is built around the ancient stone bridge that gives the city its name. The bridge spans the river at a natural crossing point and forms the central axis of the city’s layout.
 
-The **Old City** surrounds the bridge itself, where the earliest settlement developed to support travelers and quarry workers. From this central district, roads extend outward toward the quarry hills, trade routes, and the foothills of the [[Regions/Blackspine Mountains]].
+The **Old City** surrounds the bridge itself, where the earliest settlement developed to support travelers and quarry workers. From this central district, roads extend outward toward the quarry hills, trade routes, and the foothills of the [[Blackspine Mountain Foothills]].
 
 The city expands across both sides of the river, with the southern bank containing most residential districts and markets, while the northern side houses the industrial areas connected to the chalk quarries and lime kilns.
 
@@ -230,7 +230,7 @@ From this position, guards can monitor both the bridge and the main trade road p
 
 Stonebridge architecture is heavily influenced by the abundance of local stone.
 
-Buildings are typically constructed from **basalt blocks from the [[Regions/Blackspine Mountains]]** combined with mortar derived from [[Whitebridge Chalk]]. The resulting structures are thick-walled, durable, and resistant to weather.
+Buildings are typically constructed from **basalt blocks from the [[Blackspine Mountain Foothills]]** combined with mortar derived from [[Whitebridge Chalk]]. The resulting structures are thick-walled, durable, and resistant to weather.
 
 Common architectural features include:
 

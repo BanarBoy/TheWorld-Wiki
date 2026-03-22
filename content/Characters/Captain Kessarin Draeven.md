@@ -3,7 +3,7 @@
 **Title(s):** Captain Draeven  
 **Role:** Military Leader  
 **Nationality:** [[Valecaryn]]  
-**Culture / People:** Valecaryni (Draeven martial tradition)  
+**Culture / People:** [[Virelan]]
 **Born:** ~1508 (approx.)  
 **Died:** —  
 **Age:** Early 30s  
@@ -99,7 +99,7 @@ Kessarin’s identity is inseparable from House Draeven. Duty is not something s
 
 ---
 
-**Hadrian (“Benefactor”) — Controlled Uncertainty**
+[[Hadrian Garamond]] — Controlled Uncertainty**
 
 Kessarin does not trust Hadrian.
 
@@ -122,7 +122,7 @@ But in a fight—she would not hesitate to rely on him.
 
 ---
 
-**Belladonna — Unacceptable Variable / Earned Exception**
+[[**Belladonna]] — Unacceptable Variable / Earned Exception**
 
 Belladonna represents everything Kessarin is trained to reject:
 

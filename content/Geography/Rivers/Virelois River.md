@@ -1,6 +1,6 @@
 # Virelois River
 
-**Source:** Foothills and meltwaters of the [[Blackspine Mountains]]  
+**Source:** Foothills and meltwaters of the [[Blackspine Mountain Foothills]]  
 **Mouth:** [[Geldmere]] (river terminus and major trade basin)  
 **Length:** Major Waterway  
 **Regions Traversed:** Blackspine foothills, [[Gold Marches]], [[Ambervale Downs]], central Valecaryn  
@@ -13,7 +13,7 @@
 
 # Overview
 
-The Virelois River is the primary inland artery of [[Valecaryn]], flowing from the foothills of the [[Blackspine Mountains]] through the fertile heartlands of the kingdom before terminating at [[Geldmere]]. Unlike coastal rivers that empty into the sea, the Virelois feeds directly into the realm’s financial and commercial center, making it uniquely tied to the internal stability and prosperity of the kingdom.
+The Virelois River is the primary inland artery of [[Valecaryn]], flowing from the foothills of the [[Blackspine Mountain Foothills]] through the fertile heartlands of the kingdom before terminating at [[Geldmere]]. Unlike coastal rivers that empty into the sea, the Virelois feeds directly into the realm’s financial and commercial center, making it uniquely tied to the internal stability and prosperity of the kingdom.
 
 Along its course, the river passes through some of Valecaryn’s most productive regions, including the **[[Gold Marches]]** and the **[[Ambervale Downs]]**, supporting agriculture on a massive scale. Grain, wine, and other goods move steadily along its waters, converging toward Geldmere where they are accounted, traded, and redistributed.
 
@@ -23,7 +23,7 @@ More than a river, the Virelois is a unifying thread—linking rural production,
 
 # Course and Geography
 
-The Virelois originates in the lower elevations of the [[Blackspine Mountains]], where snowmelt and upland streams converge into a defined channel. From there, it flows outward into more temperate terrain, widening as it leaves the mountains behind.
+The Virelois originates in the lower elevations of the [[Blackspine Mountain Foothills]], where snowmelt and upland streams converge into a defined channel. From there, it flows outward into more temperate terrain, widening as it leaves the mountains behind.
 
 As it enters the [[Gold Marches]], the river slows and broadens, forming stable banks ideal for irrigation and settlement. This region represents the most agriculturally productive stretch of the river.
 

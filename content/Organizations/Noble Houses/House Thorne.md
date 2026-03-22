@@ -17,7 +17,7 @@ Unlike many dynasties that rose through conquest of land, House Thorne built its
 
 The dynasty’s influence extends far beyond its own territory. Merchant networks, diplomatic alliances, and naval patrol routes tied to Seluqar affect commerce across entire continents.
 
-Under the current ruler, **King Arvellen Thorne**, the house has reached perhaps the greatest height of its long history. Seluqar now commands the largest navy in the world and presides over a thriving international trade economy.
+Under the current ruler, **[[King Arvellen Thorne]]**, the house has reached perhaps the greatest height of its long history. Seluqar now commands the largest navy in the world and presides over a thriving international trade economy.
 
 ---
 
@@ -37,7 +37,7 @@ Throughout their long history the Thornes have played several defining roles:
 
 Their rule helped stabilize trade across western Thalassar and created a maritime culture where naval prestige and economic refinement became central to national identity.
 
-Major turning points for the dynasty include the construction of the **Crystal Palace** and the catastrophic naval battle that killed King Valerian Thorne and the crown prince, unexpectedly placing Arvellen on the throne.
+Major turning points for the dynasty include the construction of the **Crystal Palace** and the catastrophic naval battle that killed King Barellian Thorne and the crown prince, unexpectedly placing Arvellen on the throne.
 
 ---
 
@@ -195,15 +195,15 @@ Their dominance relies on continued naval superiority.
 
 # Known Members
 
-**King Arvellen Thorne — King of Seluqar**
+**[[King Arvellen Thorne]] — King of Seluqar**
 
 Current monarch of the Thorne dynasty. Ascended the throne unexpectedly after his father and elder brother were killed in a naval battle. Under his rule Seluqar has become the dominant naval power in the world.
 
-**King Barellian Thorne — Former King of Seluqar (deceased)**
+**[[King Barellian Thorne]] — Former King of Seluqar (deceased)**
 
 Arvellen’s father and predecessor. A respected naval ruler who died in a major naval battle alongside his eldest son.
 
-**Crown Prince Utheryn Thorne — Former Heir to Seluqar (deceased)**
+**[[Crown Prince Utheryn Thorne]] — Former Heir to Seluqar (deceased)**
 
 Elder brother of Arvellen and the expected successor before the naval disaster that reshaped the dynasty.
 

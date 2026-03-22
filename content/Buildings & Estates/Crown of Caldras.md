@@ -13,7 +13,7 @@
 
 The Crown of Caldras stands at the heart of [[Aureth Caldras]] as the symbolic and functional seat of royal authority in Valecaryn. Originally constructed during the kingdom’s golden age, it was designed to embody unity, permanence, and the enduring strength of the crown.
 
-Following the end of the [[Crown Crisis]], [[King Drosen]] claimed the palace and redefined its meaning. No longer solely a symbol of inherited rule, it became a seat of power forged through both conquest and legitimacy. His marriage to Seralyne Vaelor bound the Crown of Caldras to the legacy of the old royal line, allowing it to stand as both continuation and transformation.
+Following the end of the [[Crown Crisis]], [[King Drosen]] claimed the palace and redefined its meaning. No longer solely a symbol of inherited rule, it became a seat of power forged through both conquest and legitimacy. His marriage to Seralyne Mailleux bound the Crown of Caldras to the legacy of the old royal line, allowing it to stand as both continuation and transformation.
 
 Today, the Crown of Caldras is not merely a residence—it is the visible center of authority in Valecaryn. Where institutions observe and record, the Crown declares and decides.
 
@@ -32,7 +32,7 @@ Key sections include:
 
 • **The Throne Hall** — vast ceremonial chamber for royal audiences  
 • **The Royal Court Chambers** — spaces for governance and negotiation  
-• **The Vaelor Wing** — preserved legacy of the original royal lineage  
+• **The Mailleux Wing** — preserved legacy of the original royal lineage  
 • **Inner Residential Quarters** — private royal living spaces  
 • **The High Gardens** — elevated terraces for private diplomacy and reflection
 
@@ -93,7 +93,7 @@ Unlike the procedural machinery of the [[Meridian Compact]], authority here is e
 # Notable Features
 
 • **The Throne Hall**  
-• **The Vaelor Wing**  
+• **The Mailleux Wing**  
 • **The High Gardens**  
 • **Grand Processional Stair**
 
@@ -104,7 +104,7 @@ Unlike the procedural machinery of the [[Meridian Compact]], authority here is e
 **[[King Drosen]] — King of Valecaryn**  
 A ruler who claimed the crown through opportunity and secured it through legitimacy.
 
-**[[Queen Seralyne Vaelor]] — Queen Consort**  
+**[[Queen Seralyne Mailleux]] — Queen Consort**  
 Her lineage ties the present crown to the past.
 
 ---
@@ -123,7 +123,7 @@ The Crown of Caldras represents:
 
 # Rumors and Secrets
 
-• hidden records in the Vaelor Wing may challenge current legitimacy  
+• hidden records in the Mailleux Wing may challenge current legitimacy  
 • private chambers exist beyond the formal court  
 • lingering tension between old bloodlines and new rule
 

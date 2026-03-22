@@ -15,7 +15,7 @@ Whitebridge Chalk is a pale sedimentary stone quarried from the rolling hills su
 
 When burned in large lime kilns, the chalk produces lime used to create mortar, plaster, and whitewash — materials necessary for nearly every masonry structure built throughout the continent.
 
-Because of this, Whitebridge Chalk is one of the most widely used construction resources in Valecaryn. While heavy basalt from the [[Regions/Blackspine Mountains]] forms the structure of walls and fortifications, lime derived from Whitebridge Chalk binds the stone together and seals the surfaces of buildings.
+Because of this, Whitebridge Chalk is one of the most widely used construction resources in Valecaryn. While heavy basalt from the [[Blackspine Mountain Foothills]] forms the structure of walls and fortifications, lime derived from Whitebridge Chalk binds the stone together and seals the surfaces of buildings.
 
 The resource has made [[Stonebridge]] an important industrial town supplying materials to builders, masons, and royal construction projects.
 

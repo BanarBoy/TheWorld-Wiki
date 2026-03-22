@@ -29,9 +29,9 @@ As trade expanded across the Virelois River system and merchant wealth increased
 
 Over time they developed sophisticated trust structures allowing noble families to safeguard wealth outside their direct estates. These systems proved especially valuable during periods of instability.
 
-During the **Crown Crisis**, many nobles feared that rival factions might seize their lands or treasuries. House Ryn provided mechanisms for protecting these fortunes, quietly transferring assets to secure financial registries until stability returned.
+During the **[[Crown Crisis]]**, many nobles feared that rival factions might seize their lands or treasuries. House Ryn provided mechanisms for protecting these fortunes, quietly transferring assets to secure financial registries until stability returned.
 
-When **King Drosen** restored the monarchy, many of these protected fortunes re-emerged under Ryn administration, greatly increasing the house’s influence among noble families.
+When **[[King Halvair Drosen]]** restored the monarchy, many of these protected fortunes re-emerged under Ryn administration, greatly increasing the house’s influence among noble families.
 
 ---
 
@@ -68,7 +68,7 @@ Unlike Merrow’s large institutional systems, Ryn’s power comes from **person
 
 # Key Holdings
 
-**The Gilded Trusthall — [[Geldmere]]**
+**[[Gilded Trusthall]] — [[Geldmere]]**
 
 The principal estate and administrative center of House Ryn. Though outwardly modest, it houses numerous financial registries and trust management offices.
 
@@ -168,15 +168,15 @@ If their reputation for discretion were damaged, many clients could withdraw the
 
 # Known Members
 
-**Dame Calythe Ryn — Head of House Ryn**
+**[[Dame Calythe Ryn]] — Head of House Ryn**
 
 The current matriarch and architect of the house’s modern trust networks. Known for her meticulous control and calm strategic thinking.
 
-**Ser Alwen Ryn — Maritime Finance Liaison**
+**[[Ser Alwen Ryn]] — Maritime Finance Liaison**
 
 Oversees financial coordination between merchant fleets and trust networks.
 
-**Mistress Lyrene Ryn — Director of Philanthropic Foundations**
+**[[Mistress Lyrene Ryn]] — Director of Philanthropic Foundations**
 
 Manages charitable institutions that often serve as discreet financial channels.
 

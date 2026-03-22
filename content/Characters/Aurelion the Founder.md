@@ -3,7 +3,7 @@
 **Title(s):** King of Valecaryn, Founder of Aureth Caldras  
 **Role:** Monarch / State Builder  
 **Nationality:** [[Valecaryn]]  
-**Culture / People:** Valecaryni  
+**Culture / People:** [[Valdar]] 
 **Born:** 862  
 **Died:** 932  
 **Age:** 70  

@@ -14,7 +14,7 @@
 
 # Overview
 
-Merrowfen is one of the most refined and culturally celebrated cities in Valecaryn, known across the continent as the heart of the legendary **[[Merrowfen Vineyards]]**. Nestled among fertile hills along the upper reaches of the Virelois Delta, the city developed as the center of a thriving wine-producing region whose vintages are prized throughout the world.
+Merrowfen is one of the most refined and culturally celebrated cities in Valecaryn, known across the continent as the heart of the legendary **[[Allacroix Vineyards]]**. Nestled among fertile hills along the upper reaches of the Virelois Delta, the city developed as the center of a thriving wine-producing region whose vintages are prized throughout the world.
 
 While nearby **[[Geldmere]]** dominates the financial world of the delta, Merrowfen represents the region’s agricultural and cultural wealth. Noble estates and vineyard houses surround the city for miles, producing wines of exceptional quality that are exported across Valecaryn and beyond.
 
@@ -132,7 +132,7 @@ The vineyard estates often include manor houses, worker villages, and wine cella
 
 Important cultivated plants include:
 
-• **wine grapes** grown throughout the Merrowfen Vineyards  
+• **wine grapes** grown throughout the Allacroix Vineyards  
 • orchard fruits such as pears and plums  
 • herbs used in cooking and medicine  
 • flax grown in smaller agricultural fields
@@ -320,7 +320,7 @@ Merrowfen’s wines are exported across Valecaryn and beyond.
 
 ### Exports
 
-• premium wines from the **Merrowfen Vineyards**  
+• premium wines from the **[[Allacroix Vineyards]]**  
 • specialty vintages aged in estate cellars  
 • orchard preserves and spirits
 
@@ -330,7 +330,7 @@ Merrowfen’s wines are exported across Valecaryn and beyond.
 • luxury goods and rare spices  
 • metal tools and equipment
 
-Trade partners include merchants from **Geldmere**, coastal ports of the **Coinward Coast**, and distant international markets.
+Trade partners include merchants from **[[Geldmere]]**, coastal ports of the **[[Coinward Coast]]**, and distant international markets.
 
 ---
 
@@ -607,24 +607,13 @@ However, competition among vineyard houses has intensified, and some observers w
 
 # Notable People
 
-**[[Kethra Merrow]] — Matriarch of House Merrowfen**  
-One of the most influential vineyard magnates in the region. Kethra oversees vast estates within the Merrowfen Vineyards and plays a major role in negotiating international wine contracts.
-
-**Lord Alren Thornweave — Ambassador of the Ambervale Houses**  
-A representative of the Thornweave estates who maintains strong commercial ties between Merrowfen’s red wine producers and the white wine estates of the Ambervale Downs.
-
-**Darius Vellor — Master of the Vintage Exchange**  
-The administrator of Merrowfen’s largest wine trading institution. His approval is often required for the city’s largest export contracts.
-
-**Sera Halvine — Guildmaster of the Coopers’ Guild**  
-Leader of the city’s barrel makers. Because every wine cask in the region must pass through her guild’s standards, she holds surprising economic influence.
 
 ---
 
 # Notable Organizations
 
-**House Merrowfen**  
-The founding family of the city and one of the most prestigious vineyard dynasties in Valecaryn. Their estates dominate large portions of the Merrowfen Vineyards.
+**House Allacroix**  
+The founding family of the city and one of the most prestigious vineyard dynasties in Valecaryn. Their estates dominate large portions of the Allacroix Vineyards.
 
 **The Vintners’ Guild**  
 An association of wine producers responsible for regulating quality standards, vineyard practices, and certification of vintages.
@@ -663,7 +652,7 @@ Long wooden docks where river barges unload thousands of wine casks each season.
 **Harvest Square**  
 The city’s central plaza, famous for hosting the annual Harvest Festival.
 
-**The Merrowfen Estates**  
+**The Allacroix Estates**  
 Elegant vineyard manors scattered across the hills surrounding the city.
 
 **The Old Cellars**  

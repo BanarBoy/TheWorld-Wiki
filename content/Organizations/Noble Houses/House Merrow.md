@@ -70,7 +70,7 @@ Their true strength lies in information. The ledgers maintained in their vaults 
 
 # Key Holdings
 
-**The Grand Counting Hall — [[Geldmere]]**
+**The [[Grand Counting Hall]] — [[Geldmere]]**
 
 The headquarters of House Merrow and the largest financial institution in Valecaryn. Its ledger vaults contain records spanning centuries of trade and finance.
 
@@ -85,6 +85,12 @@ Financial offices coordinating credit and insurance for maritime trade leaving t
 **Verillon Cay Financial Registry**
 
 A discreet offshore registry used for managing international capital flows and trust accounts.
+
+**[[Azure Pearl Estate]] — [[Verillon Cay]]**
+
+A luxurious coastal property owned by **[[Kethra Merrow]]**, situated along the most prestigious beachfront of Verillon Cay. Used to host elite clients, foreign financiers, and high-value negotiations, the estate blends leisure with strategy—where entertainment, spectacle, and financial persuasion operate as one.
+
+Designed to impress, the estate features open-air terraces, private beach access, and curated social environments that allow Kethra to build relationships and secure agreements in a setting where resistance is softened by indulgence.
 
 ---
 
@@ -172,11 +178,11 @@ If confidence in their financial systems were ever seriously undermined, their p
 
 # Known Members
 
-**Kethra Merrow — Head of House Merrow**
+**[[Kethra Merrow]] — Head of House Merrow**
 
 Matriarch of the house and one of the most powerful financial figures in Valecaryn. Known for her calm demeanor and ability to navigate complex financial crises.
 
-**Thalia Merrow — Keeper of the Old Ledgers**
+**[[Thalia Merrow]] — Keeper of the Old Ledgers**
 
 Custodian of the house’s historical financial archives. Her knowledge of ancient debts and contracts is unmatched.
 

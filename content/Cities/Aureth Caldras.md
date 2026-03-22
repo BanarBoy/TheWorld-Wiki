@@ -20,6 +20,14 @@ The city stands along the northern bank of the [[Virelois River]], at the northe
 
 Caravans carrying iron, silver, and quarried stone travel southward from the Blackspine passes toward Aureth Caldras before dispersing across the continent. At the same time, vast grain shipments from the Gold Marches are tallied, taxed, and coordinated through the ministries of the capital before moving onward along road and river networks.
 
+In addition to traditional mineral trade, Aureth Caldras now plays a critical role in regulating the flow of specialized industrial resources from the [[Blackspine Mountain Foothills]], including:  
+  
+• [[Blackspine Steel]] — strategic military material  
+• [[Forgecoal]] — the fuel underpinning industrial production  
+• [[Redslag]] — a volatile byproduct requiring controlled distribution  
+  
+These materials are not freely traded. Their movement is monitored, contracted, and in some cases restricted entirely through the ministries of the capital.
+
 To travelers, Aureth Caldras appears orderly, disciplined, and somewhat austere. It lacks the riotous trade markets of port cities or the ancient mystique of older settlements. Instead, its skyline is dominated by archive towers, administrative halls, and granary complexes—structures designed not to impress but to endure.
 
 Among merchants and diplomats, a common phrase captures the city’s reputation:
@@ -252,6 +260,10 @@ The Ledger Quarter surrounds the Crown District and houses the enormous bureaucr
 
 Thousands of scribes, accountants, surveyors, and legal scholars work in record houses and ministry offices that line its orderly streets. Grain tallies from the Gold Marches, mining contracts from the Blackspine Range, and infrastructure budgets from across the confederation are processed here.
 
+In addition to agricultural and financial records, entire departments are dedicated to tracking the movement, allocation, and restriction of high-risk industrial materials such as Forgecoal and Redslag.
+
+Certain ledgers are sealed, accessible only to senior ministers, and determine which regions receive critical resources—and which do not.
+
 This district contains the largest legal archives in the known world.
 
 ---
@@ -261,6 +273,16 @@ This district contains the largest legal archives in the known world.
 The Merchant Ward serves as the commercial heart of the city.
 
 Large exchange halls, counting houses, banking institutions, and merchant guild headquarters occupy the district. Representatives from across Valecaryn’s many states maintain offices here to manage trade negotiations and resource contracts.
+
+Competition within the Merchant Ward is particularly intense around contracts tied to Blackspine Steel and Forgecoal distribution.
+
+Control over these contracts can determine:
+
+• military readiness of entire regions  
+• industrial output capacity  
+• long-term political leverage
+
+Deals are rarely public—and never without consequence.
 
 The ward also hosts several enormous commodity exchanges where grain prices, livestock contracts, and timber shipments are negotiated.
 
@@ -281,6 +303,10 @@ During harvest season the district becomes one of the busiest areas in the city.
 The River District lies along the banks of the [[Virelois River]] below the main terrace.
 
 This district contains docks, grain elevators, river mills, warehouses, and shipyards for maintaining cargo vessels. Barges carrying grain, timber, livestock products, and finished goods arrive here from both upstream and downstream settlements.
+
+In addition to agricultural cargo, secured shipments of refined metals and Forgecoal occasionally pass through controlled sections of the docks under heavy guard.
+
+These shipments are logged, sealed, and escorted, with entire dock sections temporarily closed during transfer.
 
 The smell of wet timber, grain dust, and river mud is common throughout the area.
 
@@ -345,6 +371,10 @@ Leading toward [[Geldmere]] and other southern trade centers.
 
 Large caravan gates along the city walls regulate the flow of goods and livestock entering the capital.
 
+The Blackspine Road is the most strategically critical overland route in Valecaryn, carrying not only raw ore but also Forgecoal and refined Blackspine Steel from [[Khordun-Zhal]].  
+  
+Its security is treated as a national priority, and disruptions to its flow have immediate economic consequences across the continent.
+
 River traffic along the [[Virelois River]] serves as an additional transport network, allowing bulk grain shipments to move efficiently between regions.
 
 Several major stone bridges cross tributaries and canals within the city itself.
@@ -375,7 +405,7 @@ The city’s food supply comes from several sources:
 Grain shipments from surrounding farmlands  
 Livestock products including beef, pork, milk, and cheese  
 Orchard fruits from [[Ambervale Downs]]  
-Wine shipments from [[Merrowfen Vineyards]]  
+Wine shipments from [[Allacroix Vineyards]]  
 River fish caught along the Virelois
 
 Large granary reserves maintained by the crown ensure the city can survive extended supply disruptions.
@@ -409,6 +439,8 @@ Major sectors include:
 • grain storage and coordination  
 • timber processing  
 • wagon and caravan manufacturing
+• regulation and allocation of industrial resources (Blackspine Steel, Forgecoal, Redslag)  
+• strategic contract management tied to Khordun-Zhal production output
 
 Many industries exist solely to support the administrative machinery of the capital.
 
@@ -423,8 +455,10 @@ Major exports passing through the city include:
 • grain from the Gold Marches  
 • beef, pork, and dairy products  
 • hardwood timber such as black oak and ironwood  
-• iron and silver from the Blackspine Mountains  
-• prestigious wines from the Merrowfen Vineyards
+• [[Blackspine Steel]] and refined metals from the Blackspine Mountains  
+• [[Forgecoal]] shipments supporting industrial centers  
+• restricted [[Redslag]] allocations under controlled contracts
+• prestigious wines from the Allacroix Vineyards
 
 Imports include luxury goods, textiles, spices, and rare commodities from other continents.
 
@@ -465,6 +499,14 @@ Practicality and reliability are highly prized traits. Contracts are honored, re
 The influence of the surrounding agricultural regions is also deeply embedded in local identity. Even within the capital, people often speak of harvest cycles, livestock markets, and orchard yields as matters of civic importance. Grain tallies and livestock counts are treated almost as measures of national health.
 
 Since the restoration of the monarchy under [[King Halvair Drosen]], civic pride has increased noticeably. Many citizens view the monarchy not as an absolute authority but as the stabilizing center of the Valecaryn confederation.
+
+There is also a growing awareness among officials that the systems they manage are becoming more complex—and more fragile.
+
+The capital does not produce the resources it governs. It depends on the stability of distant systems such as [[Khordun-Zhal]].
+
+This creates a quiet but persistent pressure:
+
+> if the flow breaks, the city cannot fix it—it can only respond.
 
 Visitors frequently describe Aureth Caldras as disciplined, orderly, and quietly confident. It is not a city that seeks admiration; it assumes its importance.
 
@@ -514,7 +556,7 @@ Founding Day commemorates the establishment of Aureth Caldras as the administrat
 
 The Crown Restoration Festival celebrates the restoration of the monarchy under King Drosen. The event is still relatively new but has quickly become a major annual celebration.
 
-Smaller seasonal fairs celebrate orchard harvests, livestock markets, and wine shipments arriving from the Merrowfen Vineyards.
+Smaller seasonal fairs celebrate orchard harvests, livestock markets, and wine shipments arriving from the Allacroix Vineyards.
 
 ---
 
@@ -528,7 +570,7 @@ Dairy products such as butter, cheese, and cream are common ingredients in both 
 
 Orchard fruits from [[Ambervale Downs]]—including apples and pears—are widely used in pies, preserves, and ciders.
 
-Wine from the [[Merrowfen Vineyards]] is highly prized and frequently served in taverns and formal gatherings alike.
+Wine from the [[Allacroix Vineyards]] is highly prized and frequently served in taverns and formal gatherings alike.
 
 River fish from the Virelois occasionally appear in markets but play a smaller role in local cuisine than livestock and grain products.
 
@@ -586,6 +628,8 @@ Merchant houses and commodity exchanges exert significant influence through thei
 
 Religious institutions maintain moral authority in certain civic matters, though their political power is more subtle than direct.
 
+The [[Ministry of Industrial Allocation]] — oversees distribution of Forgecoal, Blackspine Steel, and restricted materials
+
 ---
 
 ## Law and Order
@@ -617,6 +661,16 @@ Although not primarily a fortress city, Aureth Caldras holds immense strategic v
 The capital sits at the crossroads of mountain trade routes, agricultural supply networks, and river transport corridors. Control of the city effectively means control of Valecaryn’s administrative and logistical systems.
 
 Any threat to Aureth Caldras would disrupt grain distribution, taxation systems, and trade coordination across the entire continent.
+
+Control of Aureth Caldras means control over:
+
+• food distribution  
+• economic coordination  
+• and, increasingly, access to the industrial resources that enable warfare itself
+
+It does not produce power.
+
+It decides who is allowed to use it.
 
 For this reason, the defense of the capital is considered a shared responsibility among the confederated states of Valecaryn.
 
@@ -700,8 +754,8 @@ Today Aureth Caldras once again functions as the political heart of Valecaryn, t
 
 # Notable People
 
-**King Halvair Drosen**
-Queen Seralyne Vaelor
+**[[King Halvair Drosen]]**
+[[Queen Seralyne Mailleux]]
 **Lady Seraphine Vey**  
 
 ---
@@ -741,7 +795,7 @@ A common saying among travelers summarizes its reputation:
 
 # Sights and Landmarks
 
-**The Royal Palace of Drosen**  
+**[[Crown of Caldras]]**  
 A massive stone complex overlooking the city from the Crown District. The palace contains the royal court, audience halls, and the throne chamber of Valecaryn.
 
 **The Grand Archives**  

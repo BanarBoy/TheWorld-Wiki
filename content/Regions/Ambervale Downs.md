@@ -14,11 +14,11 @@
 
 # Overview
 
-The **Ambervale Downs** are a broad region of gently rolling hills and chalk-rich soils in southern Valecaryn, known primarily for their vineyards and fertile pasturelands. The downs produce the kingdom’s most widely traded white wines and serve as an important agricultural complement to the grain-producing plains of the nearby **Gold Marches**.
+The **Ambervale Downs** are a broad region of gently rolling hills and chalk-rich soils in southern Valecaryn, known primarily for their vineyards and fertile pasturelands. The downs produce the kingdom’s most widely traded white wines and serve as an important agricultural complement to the grain-producing plains of the nearby **[[Gold Marches]]**.
 
 Unlike the vast grain estates of the Marches, the Ambervale Downs are characterized by smaller vineyards, scattered farming villages, and market towns that grew around wine trade routes. The region’s mild climate and well-drained hillsides make it ideal for grape cultivation, particularly the pale grapes used in Thornweave’s famous commercial whites.
 
-The village of **Ambervale**, from which the region takes its name, functions as the central wine market and distribution hub. From here, casks travel north toward **Geldmere’s merchant houses** or west toward the ports of **Lethryn Prime**, where they are exported across the seas. **Velossa** serves as a major merchant harbor and trade distribution center.
+The village of **Ambervale**, from which the region takes its name, functions as the central wine market and distribution hub. From here, casks travel north toward **Geldmere’s merchant houses** or west toward the ports of **[[Lethryn Prime]]**, where they are exported across the seas. **[[Velossa]]** serves as a major merchant harbor and trade distribution center.
 
 Travelers often describe the Downs as one of the most pleasant landscapes in Valecaryn: open skies, orderly vineyards, and long green hills broken by windmills and stone villages. Despite its tranquil reputation, the region plays a crucial economic role in supplying wine to both domestic markets and foreign trade networks.
 

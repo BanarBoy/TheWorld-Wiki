@@ -17,7 +17,7 @@ The **Virelois Delta** lies where the great Virelois River spreads into a networ
 
 At the heart of the delta stands **Geldmere**, the financial capital of the kingdom. The city houses powerful counting houses, merchant banks, and insurance guilds that manage trade across Valecaryn and far beyond its borders. Merchants from across the world come to Geldmere to secure loans, insure cargoes, and settle major commercial agreements.
 
-Just upriver lies **Merrowfen**, a historic city surrounded by some of the most prestigious vineyards in the known world. The wines produced in the surrounding **Merrowfen Vineyards** are among the most coveted luxury exports of Valecaryn, sought after by nobility and wealthy merchants across multiple continents.
+Just upriver lies **Merrowfen**, a historic city surrounded by some of the most prestigious vineyards in the known world. The wines produced in the surrounding **[[Allacroix Vineyards]]** are among the most coveted luxury exports of Valecaryn, sought after by nobility and wealthy merchants across multiple continents.
 
 Together, the cities of Geldmere and Merrowfen form the twin pillars of the delta’s power: **finance and wine**. River trade flowing down from the interior converges here before entering international markets, making the Virelois Delta one of the wealthiest regions on the continent.
 
@@ -126,7 +126,7 @@ The vineyards are especially famous for producing some of the most prestigious w
 
 Important crops include:
 
-• wine grapes from the **Merrowfen Vineyards**  
+• wine grapes from the **Allacroix Vineyards**  
 • wheat and barley grown on floodplains  
 • orchard fruits  
 • river flax used for textiles
@@ -183,7 +183,7 @@ The center of banking, insurance, and commercial finance in Valecaryn.
 
 **[[Merrowfen]] — Vineyard City**
 
-A historic wine-producing city surrounded by the world-renowned Merrowfen Vineyards.
+A historic wine-producing city surrounded by the world-renowned Allacroix Vineyards.
 
 Numerous smaller towns and estates surround these cities across the delta.
 
@@ -238,11 +238,11 @@ The financial institutions of Geldmere influence commerce across much of the kno
 
 Exports from the region include:
 
-• prestigious **Merrowfen wines**  
+• prestigious **Allacroix wines**  
 • grain and agricultural products  
 • financial services and insurance contracts
 
-Wine from Merrowfen in particular is considered one of Valecaryn’s most prestigious exports.
+Wine from [[Allacroix Vineyards]] in particular is considered one of Valecaryn’s most prestigious exports.
 
 ---
 
@@ -340,7 +340,7 @@ Today the Virelois Delta stands as one of the wealthiest regions in the western 
 # Notable Landmarks
 
 • the **Grand Counting Houses of Geldmere**  
-• the **Merrowfen Vineyard Estates**  
+• the **Allacroix- Vineyard Estates**  
 • the extensive **Virelois Canal Network**
 
 ---

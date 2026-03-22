@@ -1,7 +1,7 @@
 # Ironwood Timber
 
 **Resource Type:** Strategic Timber / Heavy Construction Material  
-**Primary Region(s):** [[Regions/Blackspine Mountains]]  
+**Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Production Centers:** [[Iron Hollow]], [[Khordun-Zhal]]  
 **Controlling Groups:** Mountain foresters, dwarven timber guilds, regional trade houses  
 **Primary Uses:** Fortress construction, siege engines, naval reinforcement, heavy structural beams  
@@ -13,7 +13,7 @@
 
 Ironwood is one of the rarest and strongest natural materials found in Valecaryn. The wood is incredibly dense and durable, often described as “hard as iron,” which is the origin of its name.
 
-Unlike the vast hardwood forests of Black Oak, Ironwood trees grow only in the harsh highland environments of the **[[Regions/Blackspine Mountains]]**. These trees grow slowly in rocky soil and thin mountain air, producing extremely dense wood that is prized for its strength and resistance to damage.
+Unlike the vast hardwood forests of Black Oak, Ironwood trees grow only in the harsh highland environments of the **[[Blackspine Mountain Foothills]]**. These trees grow slowly in rocky soil and thin mountain air, producing extremely dense wood that is prized for its strength and resistance to damage.
 
 Because Ironwood is far more difficult to harvest and transport than other timber, it is rarely used for everyday construction. Instead it is reserved for projects requiring exceptional durability such as fortress gates, siege engines, naval reinforcements, and massive structural beams.
 
@@ -23,7 +23,7 @@ The primary center of Ironwood harvesting and trade is the mountain settlement o
 
 # Geographic Distribution
 
-Ironwood trees grow almost exclusively in the high forests of the **[[Regions/Blackspine Mountains]]**.
+Ironwood trees grow almost exclusively in the high forests of the **[[Blackspine Mountain Foothills]]**.
 
 The species thrives in:
 
