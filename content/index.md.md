@@ -8,26 +8,22 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 
 ---
 
-# Geography & Natural Features---
+# Geography & Natural Features
 
 ## Mountain Ranges
 
 - [[Blackspine Mountains]]
----
 ## Rivers
 
 - [[Virelois River]]
 - [[Estenvale River]]
----
 ## Lakes
 
 - [[Lake Edgemoor]]
----
 ## Forests
 
 - [[Black Oak Forest]]
 - [[Ironwood Forest]]
----
 ## Coastal Regions & Beaches
 
 - [[Velvet Strand]]
@@ -58,8 +54,6 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 
 - [[House Draeven]]    
 - [[House Brannor]]      
-
----
 # Trade & Maritime Systems
 
 ## Major Trade Routes
@@ -73,8 +67,6 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Crown Current]]    
 - [[Azure Drift]]    
 - [[Golden Flow]]    
-
----
 # Cities & Regions
 
 ## [[Allacroix Vineyards]]
@@ -123,8 +115,6 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Thalassar]]    
 - [[Kiyora]]    
 - [[Eryndor]]   
-
----
 # Key Locations
 
 ## Financial & Institutional
@@ -141,19 +131,15 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 
 - [[Coral Ledger House]]    
 - [[Azure Pearl Estate]]  
-
----
 # Economy & Resources
 
 ## Agricultural Staples
 
 - [[Goldenbar Wheat]]    
 - [[Goldhorn Cattle]]    
-- [[Goldhorn Beef]    
+- [[Goldhorn Beef]]    
 - [[Sarnhold Gold Cheese]]    
 - [[Sunmarch Grain]]    
-
----
 ## Wines
 
 ### Prestige Wines
@@ -166,38 +152,31 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Amberfall Red]]    
 - [[Virelois Red]]    
 - [[Stonebrook White]]    
----
 ## Alcohol & Brewing
 
 - [[Goldmarch Lager]]    
 - [[Oakbarrel Ale]]    
 - [[Ironroot Stout]]    
 - [[Deepcask Black]]    
----
 ## Timber & Natural Materials
 
 - [[Black Oak Timber]]    
 - [[Ironwood Timber]]    
----
 ## Stone & Construction Materials
 
 - [[Blackspine Basalt]]    
 - [[Whitebridge Chalk]]    
----
 ## Industrial & Strategic Materials
 
 - [[Blackspine Steel]]    
 - [[Forgecoal]]    
 - [[Redslag]]    
----
 ## Livestock & Mounts
 
 - [[Ironstep Courser]]    
----
 ## Imported Goods
 
 - [[Ridgefall Roast Coffee]]    
----
 # Maritime & Vessel Classes
 
 - [[Voss Carrack]]    
@@ -208,7 +187,6 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Crown Pathfinder]]    
 - [[Crown Escort Frigate]]    
 - [[Dread Sovereign]]
----
 # Key Figures
 
 ## Crown & Legitimacy
@@ -234,15 +212,11 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Seressa Fairwind]]    
 - [[Belladonna]]    
 - [[Alcindor the Principled]]    
-
----
 # Organizations
 
 - [[Meridian Compact]]    
 - [[Captain’s Guild]]    
 - [[Temple Orders of Valecaryn]]    
-
----
 # Notes
 
 This index serves as the central navigation structure for Valecaryn.  
