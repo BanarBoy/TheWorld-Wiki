@@ -1,5 +1,7 @@
 # Blackspine Steel
 
+![[Pasted image 20260323183212.png]]
+
 **Resource Type:** Industrial / Military Metal  
 **Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Production Centers:** [[Khordun-Zhal]]  

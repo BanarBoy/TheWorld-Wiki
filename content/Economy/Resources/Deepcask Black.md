@@ -1,5 +1,7 @@
 # Deepcask Black
 
+![[Pasted image 20260323195705.png]]
+
 **Resource Type:** Sacred Craft Beverage / Ceremonial Brew  
 **Primary Region(s):** [[Khordun-Zhal]]  
 **Major Production Centers:** Sealed deep vaults beneath Khordun-Zhal  

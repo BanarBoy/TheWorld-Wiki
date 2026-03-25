@@ -1,5 +1,7 @@
 # Goldhorn Cattle
 
+![[Pasted image 20260323203058.png]]
+
 **Species Type:** Domesticated Livestock (Cattle)  
 **Primary Region(s):** [[Gold Marches]]  
 **Common Uses:** Beef production, dairy, leather, draft labor  

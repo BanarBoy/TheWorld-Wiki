@@ -1,5 +1,7 @@
 # Amberfall Red
 
+![[Pasted image 20260323181135.png]]
+
 **Resource Type:** Agricultural Product / Table Wine  
 **Primary Region(s):** [[Ambervale Downs]]  
 **Major Production Centers:** Vineyard estates and cooperative presses near [[Velossa]]  

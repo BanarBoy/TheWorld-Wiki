@@ -160,8 +160,8 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Deepcask Black]]    
 ## Timber & Natural Materials
 
-- [[Black Oak Timber]]    
-- [[Ironwood Timber]]    
+- [[Black Oak]]    
+- [[Ironwood]]    
 ## Stone & Construction Materials
 
 - [[Blackspine Basalt]]    
@@ -176,7 +176,7 @@ Valecaryn is a unified maritime kingdom defined by the balance between **crown a
 - [[Ironstep Courser]]    
 ## Imported Goods
 
-- [[Ridgefall Roast Coffee]]    
+- [[Ridgefall Roast]]    
 # Maritime & Vessel Classes
 
 - [[Voss Carrack]]    

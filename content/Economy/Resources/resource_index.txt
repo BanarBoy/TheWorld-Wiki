@@ -1,0 +1,73 @@
+===== 000TEMPLATE - Resources.md =====
+===== Almaraine Cream.md =====
+===== Amberfall Red.md =====
+===== Amberfall Reserve Wine.md =====
+===== Banar.md =====
+===== Bitterleaf.md =====
+===== Black Oak Timber.md =====
+===== Blackgum.md =====
+===== Blackspine Basalt.md =====
+===== Blackspine Steel.md =====
+===== Bloodveil Root.md =====
+===== Blue Mussels.md =====
+===== Brindlegrain.md =====
+===== Brinewood.md =====
+===== Broadhorn Cattle.md =====
+===== Ceyvar Root.md =====
+===== Coldfire Ale.md =====
+===== Crestpine.md =====
+===== Crownshard of Ashur.md =====
+===== Deepcask Black.md =====
+===== Duskbloom Teak.md =====
+===== Fangiron.md =====
+===== Fellhide.md =====
+===== Firepetal Pepper.md =====
+===== Forgecoal.md =====
+===== Frostbitter.md =====
+===== Frostpine.md =====
+===== Frostrack Venison.md =====
+===== Glacier Salt.md =====
+===== Goldenbar Wheat.md =====
+===== Goldhorn Beef.md =====
+===== Goldhorn Cattle.md =====
+===== Goldmarch Lager.md =====
+===== Greyrock.md =====
+===== Grimfleece.md =====
+===== Highmist Thornapple.md =====
+===== Icefang Pike.md =====
+===== Ironroot Stout.md =====
+===== Ironstep Courser.md =====
+===== Ironwood Timber.md =====
+===== Karn Black.md =====
+===== Kelresh Coffee.md =====
+===== Khaldren Deepsteel.md =====
+===== Masari Redwood.md =====
+===== Masari Resin.md =====
+===== Masari Star-amber.md =====
+===== Merrowfen Grand Red Wine.md =====
+===== Oakbarrel Ale.md =====
+===== Paleweave.md =====
+===== Redslag.md =====
+===== Redwake (Reef Blood).md =====
+===== Reedgold.md =====
+===== Ridgeback Sheep.md =====
+===== Ridgefall Roast Coffee.md =====
+===== Rimecut Strips.md =====
+===== Rimewheel Cheese.md =====
+===== Riverheart Vine.md =====
+===== Saltglass.md =====
+===== Sarnhold Gold Cheese.md =====
+===== Shardcrab.md =====
+===== Silverthread Zharling.md =====
+===== Spineflint.md =====
+===== Stonebrook White Wine.md =====
+===== Stonehams.md =====
+===== Suncrest White Wine.md =====
+===== Sunmarch Grain.md =====
+===== Sunsmoke Bark.md =====
+===== Sunveil Sandstone.md =====
+===== Vireline (Saltroot).md =====
+===== Virelois Red Wine.md =====
+===== Whitebridge Chalk.md =====
+===== Wintersteel.md =====
+===== Zharvein Wheat.md =====

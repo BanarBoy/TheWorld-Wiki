@@ -1,5 +1,7 @@
 # Blackspine Basalt
 
+![[Pasted image 20260323183049.png]]
+
 **Resource Type:** Geological Resource / Construction Stone  
 **Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Extraction Sites:** Mountain quarries near [[Khordun-Zhal]] and surrounding settlements  

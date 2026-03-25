@@ -1,5 +1,7 @@
 # Goldenbar Wheat
 
+![[Pasted image 20260323201622.png]]
+
 **Resource Type:** Agricultural Staple  
 **Primary Region(s):** [[Gold Marches]]  
 **Major Production Centers:** [[Sarnhold]] and surrounding agricultural estates  

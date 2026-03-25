@@ -1,4 +1,6 @@
-bl# Blackgum
+# Blackgum
+
+![[Pasted image 20260323182906.png]]
 
 **Resource Type:** Maritime / Industrial  
 **Primary Region(s):** [[Sapphire Reach]]  

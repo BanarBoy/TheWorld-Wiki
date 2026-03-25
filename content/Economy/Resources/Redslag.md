@@ -1,5 +1,7 @@
 # Redslag
 
+![[Pasted image 20260323221041.png]]
+
 **Resource Type:** Industrial / Byproduct Compound  
 **Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Production Centers:** [[Khordun-Zhal]]  

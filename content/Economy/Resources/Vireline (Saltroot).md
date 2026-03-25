@@ -1,5 +1,7 @@
 # Vireline (Saltroot)
 
+![[Pasted image 20260324192338.png]]
+
 **Resource Type:** Maritime / Industrial  
 **Primary Region(s):** [[Sapphire Reach]]  
 **Major Production Centers:** [[Corsair’s Rest]], [[Bluewake]]  

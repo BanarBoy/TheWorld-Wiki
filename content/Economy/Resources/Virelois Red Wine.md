@@ -1,5 +1,7 @@
 # Virelois Red
 
+![[Pasted image 20260324191826.png]]
+
 **Resource Type:** Agricultural Product / Commercial Wine  
 **Primary Region(s):** [[Allacroix Vineyards]], [[Virelois Delta]]  
 **Major Production Centers:** [[Merrowfen]] and surrounding vineyard estates  
@@ -13,7 +15,7 @@
 
 Virelois Red is the most widely produced red wine of the [[Allacroix Vineyards]] and serves as the commercial foundation of the region’s wine trade. Named for the fertile lands surrounding the [[Virelois River]], it is produced in large quantities across vineyard estates throughout the delta.
 
-While prestigious wines such as [[Merrowfen Grand Red Wine]] and the rare [[Suncrest White Wine]] dominate noble cellars, Virelois Red is the wine most commonly encountered in markets, taverns, and merchant ships across Valecaryn.
+While prestigious wines such as [[Merrowfen Grand Red Wine]] and the rare [[Suncrest White]] dominate noble cellars, Virelois Red is the wine most commonly encountered in markets, taverns, and merchant ships across Valecaryn.
 
 Known for its deep color, bold flavor, and reliable quality, Virelois Red has become a staple of everyday wine consumption throughout the continent.
 

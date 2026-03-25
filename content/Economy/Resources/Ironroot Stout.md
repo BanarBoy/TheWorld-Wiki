@@ -1,5 +1,7 @@
 # Ironroot Stout
 
+![[Pasted image 20260323204212.png]]
+
 **Resource Type:** Refined Craft Beverage / Dwarven Export  
 **Primary Region(s):** [[Khordun-Zhal]]  
 **Major Production Centers:** Clan forges and brewing halls beneath Khordun-Zhal  

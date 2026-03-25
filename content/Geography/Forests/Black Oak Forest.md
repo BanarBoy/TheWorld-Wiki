@@ -45,7 +45,7 @@ The forest is not untouched—it is **structured**.
 
 The Black Oak Forest is defined by its dominant species:
 
-• **[[Black Oak Timber]]** — slow-growing, high-density hardwood prized for strength and resistance to warping
+• **[[Black Oak]]** — slow-growing, high-density hardwood prized for strength and resistance to warping
 
 Supporting systems include:
 

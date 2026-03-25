@@ -1,5 +1,7 @@
 # Redwake (Reef Blood)
 
+![[Pasted image 20260323221122.png]]
+
 **Resource Type:** Luxury / Maritime  
 **Primary Region(s):** [[Sapphire Reach]]  
 **Major Production Centers:** [[Corsair’s Rest]], [[Bluewake]]  

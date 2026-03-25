@@ -1,5 +1,7 @@
 # Goldmarch Lager
 
+![[Pasted image 20260323203310.png]]
+
 **Resource Type:** Agricultural Product / Refined Commercial Beer  
 **Primary Region(s):** [[Gold Marches]]  
 **Major Production Centers:** Market towns and estate breweries throughout the Gold Marches  

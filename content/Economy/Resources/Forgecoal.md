@@ -1,5 +1,7 @@
 # Forgecoal
 
+![[Pasted image 20260323200944.png]]
+
 **Resource Type:** Industrial / Fuel  
 **Primary Region(s):** [[Blackspine Mountain Foothills]]  
 **Major Production Centers:** [[Khordun-Zhal]] (deep extraction tiers), surrounding mining outposts  

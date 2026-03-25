@@ -1,5 +1,7 @@
 # Bitterleaf
 
+![[Pasted image 20260323182445.png]]
+
 **Resource Type:** Agricultural / Medicinal  
 **Primary Region(s):** [[Sapphire Reach]]  
 **Major Production Centers:** [[Corsair’s Rest]], [[Bluewake]]  

@@ -1,5 +1,7 @@
 # Amberfall Reserve
 
+![[Pasted image 20260323181317.png]]
+
 **Resource Type:** Luxury Agricultural Product / Reserve Wine  
 **Primary Region(s):** [[Ambervale Downs]]  
 **Major Production Centers:** Thornweave vineyard estates near [[Velossa]]  

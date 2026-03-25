@@ -1,5 +1,7 @@
 # Whitebridge Chalk
 
+![[Pasted image 20260324191714.png]]
+
 **Resource Type:** Geological Resource / Construction Material  
 **Primary Region(s):** [[Stonebridge]] and surrounding chalk hills  
 **Major Extraction Sites:** Whitebridge Quarries near [[Stonebridge]]  

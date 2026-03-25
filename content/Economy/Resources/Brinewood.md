@@ -1,5 +1,7 @@
 # Brinewood
 
+![[Pasted image 20260323184204.png]]
+
 **Resource Type:** Timber  
 **Primary Region(s):** [[Sapphire Reach]]  
 **Major Production Centers:** [[Corsair’s Rest]], [[Bluewake]]  

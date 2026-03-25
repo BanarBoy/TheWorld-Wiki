@@ -1,5 +1,7 @@
 # Merrowfen Grand Red
 
+![[Pasted image 20260323220637.png]]
+
 **Resource Type:** Luxury Agricultural Product / Prestige Wine  
 **Primary Region(s):** [[Allacroix Vineyards]]  
 **Major Production Centers:** [[Merrowfen]]  

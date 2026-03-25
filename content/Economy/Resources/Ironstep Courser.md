@@ -1,5 +1,7 @@
 # Ironstep Courser
 
+![[Pasted image 20260323204305.png]]
+
 **Resource Type:** Livestock  
 **Primary Region(s):** [[Eastwatch]] and the surrounding eastern highlands of Valecaryn  
 **Major Production Centers:** [[Eastwatch]]  

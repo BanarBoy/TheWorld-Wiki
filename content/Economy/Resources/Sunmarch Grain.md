@@ -1,172 +1,251 @@
-# Goldenbar Wheat
+# Sunmarch Grain
 
-**Resource Type:** Agricultural Staple  
-**Primary Region(s):** [[Gold Marches]]  
-**Major Production Centers:** [[Sarnhold]] and surrounding agricultural estates  
-**Controlling Groups:** Agricultural estates, farming guilds, grain merchant houses  
-**Primary Uses:** Bread flour, staple food supply, preserved rations, trade export  
-**Trade Value:** Essential / Strategic
+![[Pasted image 20260324202131.png]]
+
+**Resource Type:** Agricultural (Refined Grain Crop)  
+**Primary Region(s):** [[Gold Marches]] — estate belts surrounding [[Sarnhold]], extending across central plains  
+**Major Production Centers:** [[Sarnhold]] grain markets, estate lands near [[Harvesthall]], managed fields across the Marches  
+**Controlling Groups:** Agricultural estates, farming guilds, milling guilds, Sarnhold market authorities, strong influence from House Thornweave  
+**Primary Uses:** Fine flour, flatbreads, blended grain products, ration loaves  
+**Trade Value:** Valuable (High-demand refined staple)
 
 ---
 
 # Overview
 
-Goldenbar Wheat is the primary staple crop of Valecaryn and one of the most important agricultural resources on the continent. Grown across the vast fertile plains of the [[Gold Marches]], it provides the flour used to produce bread consumed throughout the kingdom.
+Sunmarch Grain is a refined agricultural strain developed in the [[Gold Marches]] to complement the mass production of [[Goldenbar Wheat]]. While Goldenbar provides the bulk caloric supply of Valecaryn, Sunmarch Grain is prized for its **consistency, milling quality, and structural performance in baking**.
 
-The crop takes its name from the long golden stalks that dominate the fields during harvest season. When ripe, enormous stretches of farmland shimmer with golden grain, a sight so distinctive that it helped give the region its name.
+The strain was first stabilized and widely propagated by House Thornweave, whose estate systems allowed for controlled cultivation, selective breeding, and reliable yields. Over time, its success led to widespread adoption across the Marches, where it is now grown by many estates and farming networks.
 
-Because of its high yield and reliable growth, Goldenbar Wheat forms the foundation of Valecaryn’s food supply. Cities such as [[Aureth Caldras]], [[Velossa]], [[Lethryn Prime]], and [[Westport]] all depend heavily on shipments of flour produced from the harvest.
+Sunmarch Grain produces a lighter, slightly sweeter flour that blends exceptionally well with Goldenbar Wheat, forming the basis of most bread consumed across Valecaryn.
 
-Without the massive output of Goldenbar Wheat, the large urban populations and standing armies of Valecaryn could not be sustained.
+> Goldenbar feeds the realm.  
+> Sunmarch perfects the bread.
 
 ---
 
 # Geographic Distribution
 
-Goldenbar Wheat is grown almost entirely within the fertile plains of the [[Gold Marches]].
+Sunmarch Grain is cultivated across the central and most intensively managed lands of the [[Gold Marches]].
 
-The region’s landscape provides ideal conditions for large-scale grain production, including:
+Primary zones include:
 
-• deep fertile soil  
-• broad open plains suitable for large farming estates  
-• consistent seasonal rainfall  
-• long growing seasons
+---
 
-Most of the largest agricultural estates lie within several days’ travel of [[Sarnhold]], which serves as the central grain market of the region.
+### 🌾 Thornweave Core Estates
+
+• lands surrounding [[Harvesthall]]  
+• origin point of the strain  
+• highest consistency and quality
+
+---
+
+### 🌾 Sarnhold Agricultural Belt
+
+• dense network of farms tied to market demand  
+• rapid harvest-to-mill supply chain  
+• major contributor to processed grain output
+
+---
+
+### 🌾 Open March Fields
+
+• widely adopted across independent estates  
+• variable quality depending on management  
+• large-scale contribution to total supply
+
+---
+
+Sunmarch thrives in:
+
+• well-managed soil  
+• stable irrigation systems  
+• rotational farming environments
 
 ---
 
 # Production
 
-Goldenbar Wheat is cultivated on enormous agricultural estates across the Gold Marches.
+Sunmarch Grain requires more careful cultivation than Goldenbar Wheat.
 
-Farmers sow the grain in wide fields that stretch across the plains. Teams of laborers, draft horses, and oxen work the land throughout the growing season.
+Farming practices include:
 
-Harvest season is one of the busiest periods of the year. Workers gather the grain using sickles and scythes before transporting the harvest to nearby granaries.
+• controlled planting density  
+• soil rotation and nutrient management  
+• selective harvesting for consistency
 
-Once harvested, the wheat is cleaned, dried, and stored until it can be milled into flour or transported to markets throughout the continent.
+While originally pioneered by Thornweave, these methods are now:
+
+• widely taught  
+• regionally adapted  
+• unevenly executed
+
+This results in:
+
+• a range of quality tiers across producers  
+• ongoing demand for “true” or “high-grade” Sunmarch
 
 ---
 
 # Processing and Transport
 
-Goldenbar Wheat is typically processed in large mills located near major trade centers such as [[Sarnhold]].
+Sunmarch Grain is rarely consumed raw—it is defined by its processing.
+
+---
+
+### Milling
+
+Primary processing occurs in:
+
+• [[Sarnhold]] grain complexes  
+• estate mills throughout the Marches
 
 Processing includes:
 
-• milling wheat into flour  
-• separating seed grain for future planting  
-• storing surplus grain in large granaries
+• fine milling into light flour  
+• blending with Goldenbar Wheat  
+• preparation for baking and ration use
 
-After processing, the grain and flour are distributed across Valecaryn using established trade networks.
+---
 
-Common transport methods include:
+### Composite Flour System
 
-• wagon caravans traveling inland trade roads  
-• river transport along navigable waterways  
-• coastal shipping supplying major ports
+The most important output is:
 
-These routes connect the Gold Marches to major cities such as [[Aureth Caldras]], [[Velossa]], [[Lethryn Prime]], and [[Westport]].
+> **Sunmarch–Goldenbar blended flour**
+
+This creates bread that is:
+
+• durable  
+• consistent  
+• suitable for large-scale distribution
+
+---
+
+### Transport
+
+Sunmarch Grain and its flour move through:
+
+• caravan routes from [[Sarnhold]]  
+• inland trade roads across Valecaryn  
+• maritime export networks
+
+Because of its role in refining bulk grain, it is:
+
+• prioritized in distribution  
+• closely tied to urban demand
 
 ---
 
 # Economic Importance
 
-Goldenbar Wheat forms the backbone of Valecaryn’s food economy.
+Sunmarch Grain is the **quality stabilizer** of Valecaryn’s food system.
 
-Its flour is used to produce bread consumed daily by millions of people across the continent. Military forces also rely heavily on preserved wheat rations during campaigns.
+It:
 
-Because so many cities depend on steady shipments of grain, disruptions to the harvest or transport routes can cause major economic problems, including food shortages and rising prices.
+• improves the usability of Goldenbar Wheat  
+• supports urban bread production  
+• enables reliable provisioning for armies and fleets
 
-For this reason, the stability of the Gold Marches is considered vital to the prosperity of the entire kingdom.
+Without it:
+
+• bread becomes inconsistent  
+• rations degrade faster  
+• food systems lose efficiency
 
 ---
 
 # Controlling Powers
 
-Grain production is primarily controlled by a network of agricultural estates and merchant traders.
+Control of Sunmarch Grain is distributed, but influence is uneven.
 
-**Agricultural Estates**
+Primary actors include:
 
-Large landowners who control extensive farmland throughout the Gold Marches.
+• agricultural estates across the Gold Marches  
+• milling guilds controlling processing standards  
+• Sarnhold market authorities regulating trade  
+• House Thornweave — originators and leading producers
 
-**Grain Merchant Houses**
+Thornweave’s influence comes from:
 
-Commercial traders responsible for organizing the transport and sale of large grain shipments.
+• superior cultivation methods  
+• higher-quality output  
+• control of key estate land
 
-**Sarnhold Market Authorities**
-
-Officials who regulate grain trade and maintain storage reserves within the city.
+Not ownership of the entire system.
 
 ---
 
 # Trade Networks
 
-Goldenbar Wheat is exported widely throughout Valecaryn.
+Sunmarch Grain is distributed across:
 
-Major destinations include:
+• major cities such as [[Aureth Caldras]], [[Velossa]], [[Lethryn Prime]], and [[Westport]]  
+• military provisioning systems  
+• international trade markets
 
-• [[Aureth Caldras]] — the capital and largest consumer of grain  
-• [[Velossa]] — a major coastal port supplying naval fleets  
-• [[Lethryn Prime]] — a large trade city along the Coinward Coast  
-• [[Westport]] — a western maritime hub
+It is especially important for:
 
-Large caravans regularly transport grain from the Gold Marches to these cities.
+• urban bakeries  
+• caravan and naval provisioning  
+• consistent bread production across regions
 
 ---
 
 # Cultural Significance
 
-The annual wheat harvest holds deep cultural significance throughout the Gold Marches.
+Sunmarch Grain represents:
 
-Harvest festivals celebrate the successful gathering of crops each year. These events include feasts, music, and ceremonies giving thanks for a prosperous harvest.
+• refinement of agriculture  
+• the difference between subsistence and quality  
+• the quiet influence of Thornweave innovation
 
-Many rural traditions revolve around the agricultural calendar, marking planting, growth, and harvest seasons.
+It appears in:
+
+• soft urban loaves  
+• durable travel flatbreads  
+• festival breads enriched with banar
+
+Among bakers:
+
+> good flour is known by how it behaves, not how it looks
 
 ---
 
 # Dangers and Limitations
 
-Goldenbar Wheat production faces several potential threats.
+• lower yield compared to Goldenbar Wheat  
+• dependence on proper farming techniques  
+• variation in quality across producers  
+• reliance on milling and blending infrastructure
 
-Drought, flooding, crop disease, or insect infestations can threaten harvest yields in any given year.
+Additionally:
 
-Bandits occasionally target grain caravans traveling toward major cities.
-
-Political instability or war in the region could also disrupt grain shipments across Valecaryn.
+• loss of high-quality Sunmarch strains would degrade the entire system
 
 ---
 
 # Notable Locations
 
-**[[Gold Marches]]**  
-The vast agricultural plains where Goldenbar Wheat is grown.
-
-**[[Sarnhold]]**  
-The central grain market and trade hub of the region.
+**[[Harvesthall]]** — origin and high-quality production  
+**[[Sarnhold]]** — processing and trade hub  
+**Gold Marches Estate Belt** — primary cultivation zone
 
 ---
 
 # Rumors and Conflicts
 
-Some merchants believe that powerful grain houses secretly hoard supplies during lean harvest years in order to manipulate market prices.
-
-Others suspect that rival traders occasionally sabotage caravans to weaken competitors.
-
-There are also whispers that expanding cities may eventually begin encroaching on farmland.
+• claims that Thornweave retains superior seed stock  
+• disputes over what qualifies as “true Sunmarch”  
+• merchants blending inferior grain and selling it at premium  
+• attempts to replicate or improve the original strain
 
 ---
 
 # Plot Hooks
 
-**The Missing Caravan**  
-A massive shipment of Goldenbar Wheat bound for the capital disappears along a trade route.
-
-**The Blighted Fields**  
-Farmers report a mysterious disease spreading through wheat crops across the Gold Marches.
-
-**The Hoarded Harvest**  
-Merchants uncover evidence that certain grain houses are secretly stockpiling supplies.
-
-**The Harvest Riot**  
-Laborers revolt against estate owners during a particularly difficult harvest season.
+• a new strain challenges Thornweave dominance  
+• a disease targets Sunmarch crops specifically  
+• a merchant scandal involving adulterated flour  
+• conflict over access to high-quality seed stock  
+• a failed harvest exposes reliance on refined grain systems

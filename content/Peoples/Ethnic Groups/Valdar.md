@@ -1,3 +1,15 @@
+# Valdar
+
+**Species:** Human  
+**Parent Culture(s):** Indigenous Eryndori (southern lowland aristocratic cultures)  
+**Primary Regions (Historic):** Southern Eryndor lowlands, coastal estates, early aristocratic centers such as [[Alcienne]] and [[Corvaire]]  
+**Current Distribution:** Dominant in southern Eryndor; influential aristocratic diaspora across Valecaryn  
+**Origin Era:** Pre-imperial Eryndori consolidation (early estate societies; among the oldest continuous aristocratic lineages)  
+**Language(s):** High Valdar (formal and courtly), regional Eryndori dialects, Valecaryn court dialects (diaspora)  
+**Defining Trait:** A lineage that believes **identity is not inherited passively—but deliberately shaped, refined, and preserved across generations**
+
+---
+
 # Overview
 
 The Valdar are a human lineage originating from the southern regions of Eryndor, known for their long-standing traditions of aristocratic refinement, lineage preservation, and cultural intentionality. Unlike many lineages shaped primarily by survival, trade, or conquest, the Valdar developed in relatively stable and fertile regions that allowed for generational continuity and the deliberate cultivation of identity.

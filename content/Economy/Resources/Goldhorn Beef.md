@@ -1,5 +1,7 @@
 # Goldhorn Beef
 
+![[Pasted image 20260323203152.png]]
+
 **Resource Type:** Agricultural Product / Livestock Commodity  
 **Primary Region(s):** [[Gold Marches]]  
 **Source Animal:** [[Goldhorn Cattle]]  

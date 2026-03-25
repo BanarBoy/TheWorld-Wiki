@@ -1,5 +1,7 @@
 # Oakbarrel Ale
 
+![[Pasted image 20260323220841.png]]
+
 **Resource Type:** Agricultural Product / Commercial Beer  
 **Primary Region(s):** Central and western [[Valecaryn]]  
 **Major Production Centers:** Town breweries, rural estates, and tavern brewhouses across the Gold Marches and surrounding regions  
@@ -80,7 +82,7 @@ Its production supports a wide network of industries:
 • grain farming and agricultural labor  
 • brewing operations in towns and cities  
 • cooperages producing barrels  
-• timber harvesting, particularly of **[[Black Oak Timber]]**
+• timber harvesting, particularly of **[[Black Oak]]**
 • merchant networks distributing ale across the continent
 
 Because of its scale, Oakbarrel Ale creates **continuous demand** for Black Oak, making timber rights and forest control economically valuable.

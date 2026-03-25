@@ -1,5 +1,7 @@
 # Sarnhold Gold Cheese
 
+![[Pasted image 20260323231126.png]]
+
 **Resource Type:** Agricultural Product / Aged Cheese  
 **Primary Region(s):** [[Gold Marches]]  
 **Source Animal:** [[Goldhorn Cattle]]  
